@@ -1,9 +1,9 @@
-sw_volume: 90
+sw_volume: 68
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 34
-time: 103.181000
+state: play
+current: 29
+time: 0.324000
 random: 1
 repeat: 1
 single: 0
@@ -15,44 +15,42 @@ playlist_begin
 0:Lil Peep - Toxic City ft. Drip.mp3
 1:Two Door Cinema Club - What You Know.mp3
 2:Gotye - Somebody That I Used To Know (feat. Kimbra) - official music video.mp3
-3:103-justice-d.a.n.c.e..mp3
-4:пасош - лето.mp3
-5:Noir Désir - Le Vent Nous Portera.mp3
-6:Pigalle - Dans la salle du bar-tabac de la rue des Martyrs - Chanson française.mp3
-7:raphael - dans 150 ans.mp3
-8:Raphaël - schengen.mp3
-9:RATATAT - ABRASIVE.mp3
-10:Ratatat - Rome.mp3
-11:SALES - chinese new year.mp3
-12:somebody that i used to know - Ｄｏｏｍｅｒ Ｗａｖｅ.mp3
-13:TheNeighbourhood_DaddyIssues.mp3
-14:There Is a Light That Never Goes Out (2017 Master).mp3
-15:We Used to Wait.mp3
-16:ｚａｗｓｚｅ　ｔａｍ　ｇｄｚｉｅ　ｔｙ　依サ怨姻 - polish doomer anthem.mp3
-17:All We Ever Wanted Was Everything.mp3
-18:Ｄｏｏｍｅｒ Ｗａｖｅ - Luna - Planes.mp3
-19:Lord Huron - The Night We Met.mp3
-20:MGMT - When You Die (Official Video).mp3
-21:Meet the Frownies.mp3
-22:Shuggie.mp3
-23:Stand By Me, Ben E King, 1961.mp3
-24:SWEATER WEATHER _ SLOWED.mp3
-25:xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3
-26:Where Is My Mind.mp3
-27:ｎｉｇｈｔｃａｌｌ.mp3
-28:Vaporwave - Kids.mp3
-29:Kansas - Dust in the Wind (Doomer).mp3
-30:Home resonance but you're in a bathroom at a party.mp3
-31:Ｍｅｌａｎｃｈｏｌｙ　Ｈｉｌｌ　(Gorillaz Vaporwave Mix) - The Alien.mp3
-32:coldplay - the scientist (slowed).mp3
-33:Indochine - J'ai demandé à la lune (Clip officiel).mp3
-34:Daso - Meine.mp3
-35:Alain Souchon --- Foule Sentimentale.mp3
-36:O. V. Wright - Motherless Child.mp3
-37:Renaud, Mistral Gagnant.mp3
-38:Georges Brassens - Chanson pour l'auvergnat.mp3
-39:Daughter - Candles.mp3
-40:Vanessa Paradis-Le Tourbillon De La Vie.mp3
-41:Sälen - The Drwg.mp3
-42:Mac Miller - Self Care.mp3
+3:пасош - лето.mp3
+4:Noir Désir - Le Vent Nous Portera.mp3
+5:Pigalle - Dans la salle du bar-tabac de la rue des Martyrs - Chanson française.mp3
+6:raphael - dans 150 ans.mp3
+7:Raphaël - schengen.mp3
+8:RATATAT - ABRASIVE.mp3
+9:Ratatat - Rome.mp3
+10:SALES - chinese new year.mp3
+11:somebody that i used to know - Ｄｏｏｍｅｒ Ｗａｖｅ.mp3
+12:There Is a Light That Never Goes Out (2017 Master).mp3
+13:We Used to Wait.mp3
+14:ｚａｗｓｚｅ　ｔａｍ　ｇｄｚｉｅ　ｔｙ　依サ怨姻 - polish doomer anthem.mp3
+15:All We Ever Wanted Was Everything.mp3
+16:Ｄｏｏｍｅｒ Ｗａｖｅ - Luna - Planes.mp3
+17:Lord Huron - The Night We Met.mp3
+18:MGMT - When You Die (Official Video).mp3
+19:Meet the Frownies.mp3
+20:Shuggie.mp3
+21:Stand By Me, Ben E King, 1961.mp3
+22:SWEATER WEATHER _ SLOWED.mp3
+23:xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3
+24:Where Is My Mind.mp3
+25:ｎｉｇｈｔｃａｌｌ.mp3
+26:Vaporwave - Kids.mp3
+27:Kansas - Dust in the Wind (Doomer).mp3
+28:Home resonance but you're in a bathroom at a party.mp3
+29:Ｍｅｌａｎｃｈｏｌｙ　Ｈｉｌｌ　(Gorillaz Vaporwave Mix) - The Alien.mp3
+30:coldplay - the scientist (slowed).mp3
+31:Indochine - J'ai demandé à la lune (Clip officiel).mp3
+32:Daso - Meine.mp3
+33:Alain Souchon --- Foule Sentimentale.mp3
+34:O. V. Wright - Motherless Child.mp3
+35:Renaud, Mistral Gagnant.mp3
+36:Georges Brassens - Chanson pour l'auvergnat.mp3
+37:Daughter - Candles.mp3
+38:Vanessa Paradis-Le Tourbillon De La Vie.mp3
+39:Mac Miller - Self Care.mp3
+40:TheNeighbourhood_DaddyIssues.mp3
 playlist_end

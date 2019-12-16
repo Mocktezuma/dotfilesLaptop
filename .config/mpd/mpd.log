@@ -3699,3 +3699,1106 @@ Dec 09 09:07 : client: [3] opened from [::1]:47836
 Dec 09 09:07 : client: [3] closed
 Dec 09 09:08 : client: [4] opened from [::1]:48056
 Dec 09 09:08 : client: [4] closed
+Dec 09 09:52 : client: [5] opened from [::1]:49624
+Dec 09 09:52 : client: [5] closed
+Dec 09 09:52 : client: [6] opened from [::1]:49648
+Dec 09 09:52 : client: [6] closed
+Dec 09 09:57 : client: [1] closed
+Dec 09 09:57 : player: played "Daso - Meine.mp3"
+Dec 09 11:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:23 : client: [0] opened from 127.0.0.1:52630
+Dec 09 11:23 : client: [0] closed
+Dec 09 11:23 : client: [1] opened from 127.0.0.1:52634
+Dec 09 15:07 : client: [2] opened from [::1]:44352
+Dec 09 15:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 15:07 : client: [2] closed
+Dec 09 15:07 : client: [3] opened from [::1]:44354
+Dec 09 15:07 : client: [3] closed
+Dec 09 15:07 : client: [4] opened from [::1]:44356
+Dec 09 15:07 : client: [4] closed
+Dec 09 15:12 : player: played "Daughter - Candles.mp3"
+Dec 09 15:12 : client: [5] opened from [::1]:44422
+Dec 09 15:12 : client: [5] closed
+Dec 09 15:16 : player: played "Indochine - J'ai demandé à la lune (Clip officiel).mp3"
+Dec 09 15:17 : client: [6] opened from [::1]:44562
+Dec 09 15:17 : client: [6] closed
+Dec 09 21:10 : client: [1] closed
+Dec 09 21:10 : client: [7] opened from 127.0.0.1:33080
+Dec 09 21:27 : client: [7] closed
+Dec 09 21:27 : player: played "Sälen - The Drwg.mp3"
+Dec 09 21:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 21:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 21:44 : client: [0] opened from 127.0.0.1:57492
+Dec 09 21:44 : client: [0] closed
+Dec 09 21:44 : client: [1] opened from 127.0.0.1:57494
+Dec 09 21:52 : client: [1] closed
+Dec 09 21:52 : player: played "Sälen - The Drwg.mp3"
+Dec 09 21:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 21:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 21:52 : client: [0] opened from 127.0.0.1:44536
+Dec 09 21:52 : client: [0] closed
+Dec 09 21:52 : client: [1] opened from 127.0.0.1:44538
+Dec 09 22:10 : client: [1] closed
+Dec 09 22:10 : player: played "Sälen - The Drwg.mp3"
+Dec 10 04:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 04:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 04:04 : client: [0] opened from 127.0.0.1:51652
+Dec 10 04:04 : client: [0] closed
+Dec 10 04:04 : client: [1] opened from 127.0.0.1:51654
+Dec 10 04:17 : client: [1] closed
+Dec 10 04:17 : client: [2] opened from 127.0.0.1:52340
+Dec 10 04:20 : client: [2] closed
+Dec 10 04:20 : client: [3] opened from 127.0.0.1:52628
+Dec 10 04:20 : client: [3] closed
+Dec 10 04:20 : client: [4] opened from 127.0.0.1:52630
+Dec 10 04:21 : client: [4] closed
+Dec 10 04:21 : player: played "Sälen - The Drwg.mp3"
+Dec 10 08:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 08:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 08:23 : client: [0] opened from 127.0.0.1:42070
+Dec 10 08:23 : client: [0] closed
+Dec 10 08:23 : client: [1] opened from 127.0.0.1:42074
+Dec 10 08:38 : client: [1] closed
+Dec 10 08:38 : player: played "Sälen - The Drwg.mp3"
+Dec 10 09:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 09:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 09:02 : client: [0] opened from 127.0.0.1:40852
+Dec 10 09:02 : client: [0] closed
+Dec 10 09:02 : client: [1] opened from 127.0.0.1:40854
+Dec 10 09:02 : client: [2] opened from [::1]:37258
+Dec 10 09:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 09:02 : client: [2] closed
+Dec 10 09:02 : client: [3] opened from [::1]:37296
+Dec 10 09:02 : client: [3] closed
+Dec 10 09:02 : client: [4] opened from [::1]:37298
+Dec 10 09:02 : client: [4] closed
+Dec 10 09:02 : client: [5] opened from [::1]:37300
+Dec 10 09:02 : client: [5] closed
+Dec 10 09:02 : client: [6] opened from [::1]:37302
+Dec 10 09:02 : client: [6] closed
+Dec 10 09:02 : client: [7] opened from [::1]:37304
+Dec 10 09:02 : client: [7] closed
+Dec 10 09:02 : client: [8] opened from [::1]:37306
+Dec 10 09:02 : client: [8] closed
+Dec 10 09:02 : client: [9] opened from [::1]:37308
+Dec 10 09:02 : client: [9] closed
+Dec 10 09:02 : client: [10] opened from [::1]:37312
+Dec 10 09:03 : player: played "【Silent Siren】「Routine」MUSIC VIDEO 【サイレントサイレン.mp3"
+Dec 10 09:03 : exception: Bad playlist name
+Dec 10 09:08 : update: added /B.J.Thomas - Raindrops Keep Fallin' On My Head.mp3
+Dec 10 09:08 : update: added /The Call-Let The Day Begin.mp3
+Dec 10 09:08 : update: added /Queen - Don't Stop Me Now (Official Video).mp3
+Dec 10 09:08 : update: added /I Want You Back - The Jackson 5.mp3
+Dec 10 09:08 : update: added /The Turtles - Happy together (video_audio edited & remastered) HQ.mp3
+Dec 10 09:08 : update: added /Louis Armstrong - What a wonderful world  ( 1967 ).mp3
+Dec 10 09:08 : update: added /Vampire Weekend - Harmony Hall (Official Video).mp3
+Dec 10 09:08 : update: added /Matthew Wilder - Break My Stride (Official Audio).mp3
+Dec 10 09:08 : update: added /Journey - Don't Stop Believin' (Audio).mp3
+Dec 10 09:08 : update: added /NAT KING COLE  L-O-V-E.mp3
+Dec 10 09:08 : update: added /Lou Bega - Mambo No. 5 (A Little Bit of...) (Official Video).mp3
+Dec 10 09:08 : update: added /Redbone - Come and Get Your Love (Official Audio).mp3
+Dec 10 09:08 : update: added /Rick Astley - Never Gonna Give You Up (Video).mp3
+Dec 10 09:08 : update: added /WHAM! - Wham Rap! (Enjoy What You Do).mp3
+Dec 10 09:08 : update: added /Grateful Dead - Good Lovin' (Studio Version).mp3
+Dec 10 09:08 : update: added /Beach Boys - Wouldn't It Be Nice.mp3
+Dec 10 09:08 : update: added /John Denver - Take Me Home, Country Roads (Audio).mp3
+Dec 10 09:08 : update: added /Patrick Hernandez - Born to Be Alive - Official Video (Clip Officiel).mp3
+Dec 10 09:08 : update: added /Atmosphere - Sunshine (Official Video).mp3
+Dec 10 09:08 : update: added /Beach Boys- I get Around.mp3
+Dec 10 09:08 : update: added /KC & The Sunshine Band - Give It Up [HQ].mp3
+Dec 10 09:08 : update: added /Here Comes The Sun (Remastered 2009).mp3
+Dec 10 09:08 : update: added /Three Dog Night   Joy To The World.mp3
+Dec 10 09:08 : update: added /Men At Work - Down Under (Official Video).mp3
+Dec 10 09:08 : update: added /The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3
+Dec 10 09:08 : update: added /Nena ‎- 99 Luftballons.mp3
+Dec 10 09:08 : update: added /Electric Light Orchestra - Mr. Blue Sky (Official Video).mp3
+Dec 10 09:08 : update: added /Fluorescent Adolescent.mp3
+Dec 10 09:12 : player: played "Atmosphere - Sunshine (Official Video).mp3"
+Dec 10 09:13 : update: added /Atmosphere - The Best Day (Official Video).mp3
+Dec 10 09:22 : player: played "The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3"
+Dec 10 09:23 : client: [11] opened from [::1]:38304
+Dec 10 09:23 : client: [11] closed
+Dec 10 09:23 : client: [12] opened from [::1]:38306
+Dec 10 09:23 : client: [12] closed
+Dec 10 09:26 : player: played "SALES - chinese new year.mp3"
+Dec 10 09:28 : client: [13] opened from [::1]:38346
+Dec 10 09:28 : client: [13] closed
+Dec 10 10:49 : client: [10] closed
+Dec 10 10:49 : client: [1] closed
+Dec 10 10:49 : player: played "Two Door Cinema Club - What You Know.mp3"
+Dec 10 11:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 11:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 11:17 : client: [0] opened from 127.0.0.1:42744
+Dec 10 11:17 : client: [0] closed
+Dec 10 11:17 : client: [1] opened from 127.0.0.1:42746
+Dec 10 11:51 : client: [1] closed
+Dec 10 11:51 : player: played "Two Door Cinema Club - What You Know.mp3"
+Dec 10 12:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 12:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 12:33 : client: [0] opened from 127.0.0.1:57158
+Dec 10 12:33 : client: [0] closed
+Dec 10 12:33 : client: [1] opened from 127.0.0.1:57160
+Dec 10 12:33 : client: [2] opened from [::1]:48100
+Dec 10 12:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 12:33 : client: [2] closed
+Dec 10 12:33 : client: [3] opened from [::1]:48104
+Dec 10 12:33 : client: [3] closed
+Dec 10 12:33 : client: [4] opened from [::1]:48106
+Dec 10 12:33 : client: [4] closed
+Dec 10 12:33 : client: [5] opened from [::1]:48108
+Dec 10 12:33 : client: [5] closed
+Dec 10 12:33 : client: [6] opened from [::1]:48110
+Dec 10 12:33 : client: [6] closed
+Dec 10 12:33 : client: [7] opened from [::1]:48112
+Dec 10 12:33 : client: [7] closed
+Dec 10 12:33 : client: [8] opened from [::1]:48116
+Dec 10 12:33 : client: [8] closed
+Dec 10 12:33 : client: [9] opened from [::1]:48118
+Dec 10 12:33 : client: [9] closed
+Dec 10 12:33 : client: [10] opened from [::1]:48120
+Dec 10 12:33 : client: [10] closed
+Dec 10 12:35 : client: [11] opened from [::1]:48144
+Dec 10 12:35 : client: [11] closed
+Dec 10 12:35 : client: [12] opened from [::1]:48146
+Dec 10 12:35 : client: [12] closed
+Dec 10 12:37 : player: played "Atmosphere - Sunshine (Official Video).mp3"
+Dec 10 12:43 : player: played "The Midnight - Los Angeles.mp3"
+Dec 10 12:47 : client: [13] opened from [::1]:48690
+Dec 10 12:47 : client: [13] closed
+Dec 10 13:02 : client: [1] closed
+Dec 10 13:02 : player: played "Sälen - The Drwg.mp3"
+Dec 10 13:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 13:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 13:50 : client: [0] opened from 127.0.0.1:56992
+Dec 10 13:50 : client: [0] closed
+Dec 10 13:50 : client: [1] opened from 127.0.0.1:56994
+Dec 10 13:50 : client: [2] opened from [::1]:60980
+Dec 10 13:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 13:50 : client: [2] closed
+Dec 10 13:50 : player: played "Sälen - The Drwg.mp3"
+Dec 10 13:51 : client: [3] opened from [::1]:60992
+Dec 10 13:53 : client: [3] closed
+Dec 10 13:53 : client: [4] opened from [::1]:32768
+Dec 10 13:53 : client: [4] closed
+Dec 10 13:56 : client: [5] opened from [::1]:32776
+Dec 10 13:56 : update: removing 103-justice-d.a.n.c.e..mp3
+Dec 10 13:56 : client: [5] closed
+Dec 10 13:58 : client: [6] opened from [::1]:32784
+Dec 10 13:58 : client: [6] closed
+Dec 10 15:15 : client: [1] closed
+Dec 10 15:15 : client: [7] opened from 127.0.0.1:58654
+Dec 10 16:21 : client: [7] closed
+Dec 10 16:21 : player: played "KamadoTanjiro.mp3"
+Dec 10 16:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 16:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 16:28 : client: [0] opened from 127.0.0.1:38098
+Dec 10 16:28 : client: [0] closed
+Dec 10 16:28 : client: [1] opened from 127.0.0.1:38100
+Dec 10 16:56 : client: [2] opened from [::1]:34208
+Dec 10 16:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 16:56 : client: [2] closed
+Dec 10 16:56 : client: [3] opened from [::1]:34212
+Dec 10 16:59 : exception: Playlist already exists
+Dec 10 16:59 : player: played "KamadoTanjiro.mp3"
+Dec 10 17:04 : client: [4] opened from [::1]:34288
+Dec 10 17:04 : client: [4] closed
+Dec 10 17:04 : client: [5] opened from [::1]:34290
+Dec 10 17:04 : client: [5] closed
+Dec 10 17:07 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/14 Dot Your Eyes.mp3"
+Dec 10 17:10 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/14 Dot Your Eyes.mp3"
+Dec 10 17:11 : client: [6] opened from [::1]:34344
+Dec 10 17:11 : client: [6] closed
+Dec 10 17:11 : client: [7] opened from [::1]:34348
+Dec 10 17:13 : client: [8] opened from [::1]:34416
+Dec 10 17:13 : client: [8] closed
+Dec 10 17:14 : client: [9] opened from [::1]:34438
+Dec 10 17:14 : client: [9] closed
+Dec 10 17:25 : client: [10] opened from [::1]:34678
+Dec 10 17:25 : client: [10] closed
+Dec 10 17:30 : client: [3] closed
+Dec 10 17:30 : client: [7] closed
+Dec 10 19:10 : client: [1] closed
+Dec 10 19:10 : client: [11] opened from 127.0.0.1:41398
+Dec 10 19:26 : client: [11] closed
+Dec 10 19:26 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/10 Mama Said Knock You Out.mp3"
+Dec 10 20:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 20:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 20:38 : client: [0] opened from 127.0.0.1:39692
+Dec 10 20:38 : client: [0] closed
+Dec 10 20:38 : client: [1] opened from 127.0.0.1:39694
+Dec 10 21:23 : client: [1] closed
+Dec 10 21:23 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/10 Mama Said Knock You Out.mp3"
+Dec 11 04:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 04:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 04:50 : client: [0] opened from 127.0.0.1:33156
+Dec 11 04:50 : client: [0] closed
+Dec 11 04:50 : client: [1] opened from 127.0.0.1:33158
+Dec 11 04:50 : client: [2] opened from [::1]:50440
+Dec 11 04:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 04:50 : client: [2] closed
+Dec 11 04:50 : client: [3] opened from [::1]:50448
+Dec 11 04:50 : client: [3] closed
+Dec 11 04:56 : client: [4] opened from [::1]:50640
+Dec 11 04:56 : client: [4] closed
+Dec 11 05:21 : client: [1] closed
+Dec 11 05:21 : client: [5] opened from 127.0.0.1:34360
+Dec 11 05:58 : client: [5] closed
+Dec 11 05:58 : player: played "La vie est belle.mp3"
+Dec 11 08:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 08:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 08:07 : client: [0] opened from 127.0.0.1:43228
+Dec 11 08:07 : client: [0] closed
+Dec 11 08:07 : client: [1] opened from 127.0.0.1:43230
+Dec 11 09:46 : client: [2] opened from [::1]:55938
+Dec 11 09:47 : client: [1] closed
+Dec 11 09:47 : client: [3] opened from 127.0.0.1:44892
+Dec 11 09:47 : client: [4] opened from [::1]:55950
+Dec 11 09:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 09:53 : player: played "La vie est belle.mp3"
+Dec 11 09:53 : player: played "Five Finger Death Punch/American Capitalist/08 Remember Everything.mp3"
+Dec 11 09:58 : client: [4] closed
+Dec 11 10:00 : player: played "SALES - chinese new year.mp3"
+Dec 11 10:01 : client: [2] closed
+Dec 11 10:01 : client: [3] closed
+Dec 11 10:01 : player: played "Lou Bega - Mambo No. 5 (A Little Bit of...) (Official Video).mp3"
+Dec 11 10:01 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 11 11:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 11:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 11:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 11:06 : client: [0] opened from 127.0.0.1:57488
+Dec 11 11:06 : client: [0] closed
+Dec 11 11:06 : client: [1] opened from 127.0.0.1:57490
+Dec 11 11:08 : player: played "Lou Bega - Mambo No. 5 (A Little Bit of...) (Official Video).mp3"
+Dec 11 11:11 : client: [2] opened from [::1]:38012
+Dec 11 11:11 : client: [2] closed
+Dec 11 11:46 : client: [3] opened from [::1]:39236
+Dec 11 11:46 : client: [3] closed
+Dec 11 11:47 : client: [4] opened from [::1]:39324
+Dec 11 11:48 : client: [4] closed
+Dec 11 11:48 : client: [5] opened from [::1]:39326
+Dec 11 11:48 : client: [5] closed
+Dec 11 11:48 : client: [6] opened from [::1]:39332
+Dec 11 11:49 : client: [6] closed
+Dec 11 11:50 : client: [1] closed
+Dec 11 11:50 : client: [7] opened from 127.0.0.1:58878
+Dec 11 11:50 : client: [8] opened from [::1]:39348
+Dec 11 11:50 : client: [8] closed
+Dec 11 11:50 : client: [9] opened from [::1]:39350
+Dec 11 11:50 : client: [9] closed
+Dec 11 11:50 : client: [10] opened from [::1]:39352
+Dec 11 11:50 : client: [10] closed
+Dec 11 11:50 : client: [11] opened from [::1]:39354
+Dec 11 11:50 : client: [12] opened from [::1]:39362
+Dec 11 11:50 : client: [12] closed
+Dec 11 12:25 : client: [13] opened from [::1]:39502
+Dec 11 12:25 : client: [13] closed
+Dec 11 12:25 : client: [14] opened from [::1]:39504
+Dec 11 12:25 : client: [14] closed
+Dec 11 12:25 : client: [15] opened from [::1]:39506
+Dec 11 12:25 : client: [15] closed
+Dec 11 12:31 : player: played "La vie est belle.mp3"
+Dec 11 12:31 : client: [16] opened from [::1]:39526
+Dec 11 12:31 : client: [16] closed
+Dec 11 12:39 : player: played "Culture Club - Karma Chameleon (Official Video).mp3"
+Dec 11 12:42 : player: played "Queen - Don't Stop Me Now (Official Video).mp3"
+Dec 11 12:46 : player: played "Sälen - The Drwg.mp3"
+Dec 11 12:47 : client: [17] opened from [::1]:39816
+Dec 11 12:47 : client: [17] closed
+Dec 11 12:47 : client: [18] opened from [::1]:39818
+Dec 11 12:47 : client: [18] closed
+Dec 11 12:47 : client: [19] opened from [::1]:39820
+Dec 11 12:47 : client: [19] closed
+Dec 11 12:50 : player: played "TMG - Walk Man (Official Video).mp3"
+Dec 11 12:55 : player: played "Electric Light Orchestra - Mr. Blue Sky (Official Video).mp3"
+Dec 11 12:59 : player: played "Come and get Your Love(Guardians of the Galaxy Intro song) - Redbone.mp3"
+Dec 11 13:02 : player: played "The Turtles - Happy together (video_audio edited & remastered) HQ.mp3"
+Dec 11 13:04 : player: played "NAT KING COLE  L-O-V-E.mp3"
+Dec 11 13:08 : player: played "Atmosphere - The Best Day (Official Video).mp3"
+Dec 11 13:14 : player: played "Mac Miller - Self Care.mp3"
+Dec 11 13:19 : player: played "Fade Into You.mp3"
+Dec 11 13:22 : player: played "I Want You Back - The Jackson 5.mp3"
+Dec 11 13:24 : client: [11] closed
+Dec 11 13:24 : client: [7] closed
+Dec 11 13:24 : player: played "Hey Moon.mp3"
+Dec 11 13:24 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 11 13:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 13:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 13:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 13:39 : client: [0] opened from 127.0.0.1:52150
+Dec 11 13:39 : client: [0] closed
+Dec 11 13:39 : client: [1] opened from 127.0.0.1:52152
+Dec 11 13:39 : client: [2] opened from [::1]:56154
+Dec 11 13:39 : client: [2] closed
+Dec 11 17:57 : client: [3] opened from [::1]:58662
+Dec 11 17:57 : client: [3] closed
+Dec 11 17:57 : client: [4] opened from [::1]:58664
+Dec 11 17:57 : client: [4] closed
+Dec 11 17:57 : client: [5] opened from [::1]:58666
+Dec 11 17:57 : client: [5] closed
+Dec 11 17:57 : client: [6] opened from [::1]:58668
+Dec 11 17:57 : client: [6] closed
+Dec 11 17:59 : client: [7] opened from [::1]:58682
+Dec 11 17:59 : client: [7] closed
+Dec 11 17:59 : client: [8] opened from [::1]:58684
+Dec 11 17:59 : client: [8] closed
+Dec 11 17:59 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 11 17:59 : client: [9] opened from [::1]:58688
+Dec 11 17:59 : client: [10] opened from [::1]:58690
+Dec 11 17:59 : client: [9] closed
+Dec 11 17:59 : client: [10] closed
+Dec 11 17:59 : client: [11] opened from [::1]:58692
+Dec 11 17:59 : client: [11] closed
+Dec 11 17:59 : client: [12] opened from [::1]:58700
+Dec 11 18:03 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 11 18:05 : player: played "La vie est belle.mp3"
+Dec 11 18:05 : client: [13] opened from [::1]:58730
+Dec 11 18:05 : client: [13] closed
+Dec 11 19:14 : client: [12] closed
+Dec 11 19:14 : client: [1] closed
+Dec 11 19:14 : player: played "Electric Light Orchestra - Mr. Blue Sky (Official Video).mp3"
+Dec 11 19:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 19:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 19:33 : client: [0] opened from 127.0.0.1:55840
+Dec 11 19:33 : client: [0] closed
+Dec 11 19:33 : client: [1] opened from 127.0.0.1:55842
+Dec 11 19:34 : client: [2] opened from [::1]:51474
+Dec 11 19:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 19:39 : client: [3] opened from [::1]:51476
+Dec 11 19:39 : client: [3] closed
+Dec 11 19:40 : client: [4] opened from [::1]:51478
+Dec 11 19:40 : client: [4] closed
+Dec 11 19:40 : client: [5] opened from [::1]:51480
+Dec 11 19:40 : client: [5] closed
+Dec 11 19:40 : client: [6] opened from [::1]:51482
+Dec 11 19:40 : client: [6] closed
+Dec 11 19:41 : client: [2] closed
+Dec 11 19:41 : client: [1] closed
+Dec 11 19:41 : player: played "La vie est belle.mp3"
+Dec 11 19:41 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 11 19:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 19:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 19:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 19:42 : client: [0] opened from 127.0.0.1:41780
+Dec 11 19:42 : client: [0] closed
+Dec 11 19:42 : client: [1] opened from 127.0.0.1:41782
+Dec 11 19:42 : client: [2] opened from [::1]:55478
+Dec 11 19:44 : client: [3] opened from [::1]:55710
+Dec 11 19:44 : client: [3] closed
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/05 - My Favorite Tune - Ryo Fukui - Nobody's.flac
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/07 - My Favorite Tune - Ryo Fukui - After Hours.flac
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/01 - My Favorite Tune - Ryo Fukui - Voyage.flac
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/04 - My Favorite Tune - Ryo Fukui - Nobody Knows The Trouble I've Seen.flac
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/06 - My Favorite Tune - Ryo Fukui - My Conception.flac
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/02 - My Favorite Tune - Ryo Fukui - Scenery.flac
+Dec 11 19:45 : update: updating Ryo Fukui — My Favorite Tune/03 - My Favorite Tune - Ryo Fukui - Mellow Dream.flac
+Dec 11 19:45 : update: updating /B.J.Thomas - Raindrops Keep Fallin' On My Head.mp3
+Dec 11 19:45 : update: updating /The Call-Let The Day Begin.mp3
+Dec 11 19:45 : update: updating /Ｄｏｏｍｅｒ Ｗａｖｅ - Love My Way.mp3
+Dec 11 19:45 : update: updating /Vanessa Paradis-Le Tourbillon De La Vie.mp3
+Dec 11 19:45 : update: updating /SALES - chinese new year.mp3
+Dec 11 19:45 : update: updating /coldplay - the scientist (slowed).mp3
+Dec 11 19:45 : update: updating /Queen - Don't Stop Me Now (Official Video).mp3
+Dec 11 19:45 : update: updating /TheNeighbourhood_DaddyIssues.mp3
+Dec 11 19:45 : update: updating /I Want You Back - The Jackson 5.mp3
+Dec 11 19:45 : update: updating /Fade Into You.mp3
+Dec 11 19:45 : update: updating /TMG - Walk Man (Official Video).mp3
+Dec 11 19:45 : update: updating /The Turtles - Happy together (video_audio edited & remastered) HQ.mp3
+Dec 11 19:45 : update: updating /ｚａｗｓｚｅ　ｔａｍ　ｇｄｚｉｅ　ｔｙ　依サ怨姻 - polish doomer anthem.mp3
+Dec 11 19:45 : update: updating /Louis Armstrong - What a wonderful world  ( 1967 ).mp3
+Dec 11 19:45 : update: updating /les fatals picards mon pére etait tellement de gauche.mp3
+Dec 11 19:45 : update: updating /Vampire Weekend - Harmony Hall (Official Video).mp3
+Dec 11 19:45 : update: updating /SWEATER WEATHER _ SLOWED.mp3
+Dec 11 19:45 : update: updating /Vaporwave - Kids.mp3
+Dec 11 19:45 : update: updating /Daughter - Candles.mp3
+Dec 11 19:45 : update: updating /Matthew Wilder - Break My Stride (Official Audio).mp3
+Dec 11 19:45 : update: updating /Journey - Don't Stop Believin' (Audio).mp3
+Dec 11 19:45 : update: updating /NAT KING COLE  L-O-V-E.mp3
+Dec 11 19:45 : update: updating /Lou Bega - Mambo No. 5 (A Little Bit of...) (Official Video).mp3
+Dec 11 19:45 : update: updating /Daso - Meine.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/08-five_finger_death_punch-falling_in_hate.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/04-five_finger_death_punch-no_one_gets_left_behind.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/10-five_finger_death_punch-walk_away.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/11-five_finger_death_punch-canto_34.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/01-five_finger_death_punch-dying_breed.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/12-five_finger_death_punch-bad_company.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/02-five_finger_death_punch-hard_to_see.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/13-five_finger_death_punch-war_is_the_answer.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/09-five_finger_death_punch-my_own_hell.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/03-five_finger_death_punch-bulletproof.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/07-five_finger_death_punch-far_from_home.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/05-five_finger_death_punch-crossing_over.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - War Is the Answer (2009)/06-five_finger_death_punch-burn_it_down.mp3
+Dec 11 19:45 : update: updating /Sälen - The Drwg.mp3
+Dec 11 19:45 : update: updating /Joji - SLOW DANCING IN THE DARK.mp3
+Dec 11 19:45 : update: updating /Redbone - Come and Get Your Love (Official Audio).mp3
+Dec 11 19:45 : update: updating /Alain Souchon --- Foule Sentimentale.mp3
+Dec 11 19:45 : update: updating /Rick Astley - Never Gonna Give You Up (Video).mp3
+Dec 11 19:45 : update: updating /WHAM! - Wham Rap! (Enjoy What You Do).mp3
+Dec 11 19:45 : update: updating /O. V. Wright - Motherless Child.mp3
+Dec 11 19:45 : update: updating /Grateful Dead - Good Lovin' (Studio Version).mp3
+Dec 11 19:45 : update: updating /Come and get Your Love(Guardians of the Galaxy Intro song) - Redbone.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/6 - I.M.Sin.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/14 - Dot Your Eyes (feat. Jamey Jasta).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/3 - You.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/8 - Dot Your Eyes.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/4 - Wrong Side of Heaven.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/10 - Mama Said Knock You Out (feat. Tech N9ne).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/1 - Lift Me Up (feat. Rob Halford).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/7 - Anywhere But Here.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/11 - Diary of a Deadman.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/9 - M.I.N.E (End This Way).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/2 - Watch You Bleed.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/12 - I.M.Sin (feat. Max Cavalera).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/5 - Burn MF.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - The Wrong Side of Heaven & the Righteous Side of Hell 2013/13 - Anywhere But Here (feat Maria Brink).mp3
+Dec 11 19:45 : update: updating /Beach Boys - Wouldn't It Be Nice.mp3
+Dec 11 19:45 : update: updating /Альянс - На Заре (Na Zare) - Ｄｏｏｍｅｒ Ｗａｖｅ.mp3
+Dec 11 19:45 : update: updating /John Denver - Take Me Home, Country Roads (Audio).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/12-five_finger_death_punch-meet_the_monster.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/08-five_finger_death_punch-never_enough.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/11-five_finger_death_punch-death_before_dishonour.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/04-five_finger_death_punch-the_bleeding.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/14-five_finger_death_punch-the_devils_own_(live_bonus_track).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/10-five_finger_death_punch-cant_heal_you.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/01-five_finger_death_punch-ashes.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/05-five_finger_death_punch-a_place_to_die.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/09-five_finger_death_punch-stranger_than_fiction.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/03-five_finger_death_punch-salvation.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/06-five_finger_death_punch-the_devils_own.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/07-five_finger_death_punch-white_knuckles.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/02-five_finger_death_punch-the_way_of_the_fist.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Way of the Fist (2009)/13-five_finger_death_punch-from_out_of_nowhere_(bonus_track).mp3
+Dec 11 19:45 : update: updating /The Midnight - Los Angeles.mp3
+Dec 11 19:45 : update: added /Olivia Ruiz - Elle Panique.mp3
+Dec 11 19:45 : update: updating /somebody that i used to know - Ｄｏｏｍｅｒ Ｗａｖｅ.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/11.Are You Experienced.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/07.May This Be Love.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/03.Red House.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/06.I Don't Live Today.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/01.Foxey Lady.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/17.Highway Chile.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/10.Remember.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/14.Purple Haze.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/13.Stone Free.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/09.Third Stone From The Sun.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/16.The Wind Cries Mary.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/02.Manic Depression.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/12.Hey Joe.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/08.Fire.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/05.Love Or Confusion.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/04.Can You See Me.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Are You Experienced/15.51st Anniversary.mp3
+Dec 11 19:45 : update: updating /Patrick Hernandez - Born to Be Alive - Official Video (Clip Officiel).mp3
+Dec 11 19:45 : update: updating /70's lo fi Redbone.mp3
+Dec 11 19:45 : update: updating /raphael - dans 150 ans.mp3
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/02 - Have You Ever Been (To Electric Ladyland).flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/14 - House Burning Down.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/01 - ...And the Gods Made Love.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/04 - Voodoo Chile.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/05 - Little Miss Strange.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/12 - Moon, Turn the Tides...Gently, Gently Away.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/11 - 1983... (A Merman I Should Turn to Be).flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/08 - Gypsy Eyes.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/15 - All Along the Watchtower.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/06 - Long Hot Summer Night.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/10 - Rainy Day, Dream Away.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/16 - Voodoo Child (Slight Return).flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/09 - Burning of the Midnight Lamp.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/07 - Come On (Let the Good Times Roll).flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/03 - Crosstown Traffic.flac
+Dec 11 19:45 : update: updating The Jimi Hendrix Experience - Electric Ladyland/13 - Still Raining, Still Dreaming.flac
+Dec 11 19:45 : update: updating /Indochine - J'ai demandé à la lune (Clip officiel).mp3
+Dec 11 19:45 : update: updating /Ｐｕｍｐｅｄ Ｕｐ Ｋｉｃｋｓ ＶＡＰＯＲＷＡＶＥ (若者が履く流行のスニーカー).mp3
+Dec 11 19:45 : update: updating /Mariya Takeuchi Plastic Love  竹内 まりや.mp3
+Dec 11 19:45 : update: updating /Kansas - Dust in the Wind (Doomer).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/05 - My Nemesis.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/01 - Got Your Six.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/03 - Wash it All Away.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/04 - Ain't My Last Dance.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/07 - Question Everything.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/11 - Boots and Blood.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/09 - Digging My Own Grave.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/10 - Meet My Maker.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/06 - No Sudden Movement.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/02 - Jekyll And Hyde.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - Got Your Six/08 - Hell to Pay.mp3
+Dec 11 19:45 : update: updating /Mac Miller - Self Care.mp3
+Dec 11 19:45 : update: updating /Raphaël - schengen.mp3
+Dec 11 19:45 : update: updating /Gotye - Somebody That I Used To Know (feat. Kimbra) - official music video.mp3
+Dec 11 19:45 : update: updating /Renaud, Mistral Gagnant.mp3
+Dec 11 19:45 : update: updating /Pigalle - Dans la salle du bar-tabac de la rue des Martyrs - Chanson française.mp3
+Dec 11 19:45 : update: updating /Mr.Kitty - After Dark.mp3
+Dec 11 19:45 : update: updating /Home resonance but you're in a bathroom at a party.mp3
+Dec 11 19:45 : update: updating /Atmosphere - Sunshine (Official Video).mp3
+Dec 11 19:45 : update: updating /Beach Boys- I get Around.mp3
+Dec 11 19:45 : update: updating /The Less I Know The Better & Sexy Back by Tame Impala and Justin Timberlake have the same BPM.mp3
+Dec 11 19:45 : update: updating /KC & The Sunshine Band - Give It Up [HQ].mp3
+Dec 11 19:45 : update: updating /KINO - Spokoynaya Noch' (Calm Night).mp3
+Dec 11 19:45 : update: updating /Here Comes The Sun (Remastered 2009).mp3
+Dec 11 19:45 : update: updating /Three Dog Night   Joy To The World.mp3
+Dec 11 19:45 : update: updating REOL - Endless [EP] (2017)/02 B12.mp3
+Dec 11 19:45 : update: updating REOL - Endless [EP] (2017)/03 エンドレスライン.mp3
+Dec 11 19:45 : update: updating REOL - Endless [EP] (2017)/01 ニュータイプトーキョー.mp3
+Dec 11 19:45 : update: updating REOL - Endless [EP] (2017)/04 LUVORATORRRRRY!.mp3
+Dec 11 19:45 : update: updating /Men At Work - Down Under (Official Video).mp3
+Dec 11 19:45 : update: updating /The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3
+Dec 11 19:45 : update: updating /Nena ‎- 99 Luftballons.mp3
+Dec 11 19:45 : update: updating /Electric Light Orchestra - Mr. Blue Sky (Official Video).mp3
+Dec 11 19:45 : update: updating /DOOMER THEME SONG - ｔａｋｅ　ｍｅ　ｏｕｔ(Full, uncut version).mp3
+Dec 11 19:45 : update: updating /пасош - лето.mp3
+Dec 11 19:45 : update: updating /Symphony of the Night.mp3
+Dec 11 19:45 : update: updating /Johnny Cash - Hurt (Doomer).mp3
+Dec 11 19:45 : update: updating /Insight (2007 Remaster).mp3
+Dec 11 19:45 : update: updating /Elephant Woman.mp3
+Dec 11 19:45 : update: updating /Atmosphere - The Best Day (Official Video).mp3
+Dec 11 19:45 : update: updating /Georges Brassens - Chanson pour l'auvergnat.mp3
+Dec 11 19:45 : update: updating /Soldiers of the Wastelands.mp3
+Dec 11 19:45 : update: updating /Foster The People - Pumped up Kicks (Official Music Video).mp3
+Dec 11 19:45 : update: updating /College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3
+Dec 11 19:45 : update: updating /МЫ - Полярная Звезда (Official Video).mp3
+Dec 11 19:45 : update: updating /Justice - D.A.N.C.E. - †.mp3
+Dec 11 19:45 : update: updating /La vie est belle.mp3
+Dec 11 19:45 : update: updating /Ｄｏｏｍｅｒ Ｗａｖｅ - Luna - Planes.mp3
+Dec 11 19:45 : update: updating /Through the Fire and Flames.mp3
+Dec 11 19:45 : update: updating /ｎｉｇｈｔｃａｌｌ.mp3
+Dec 11 19:45 : update: updating /Noir Désir - Le Vent Nous Portera.mp3
+Dec 11 19:45 : update: updating /Bobby Caldwell - What You Won't Do for Love (Album Version).mp3
+Dec 11 19:45 : update: updating /John Denver - Take Me Home, Country Roads (Official Audio).mp3
+Dec 11 19:45 : update: updating /5'nizza- Солдат (audio).mp3
+Dec 11 19:45 : update: updating /Fluorescent Adolescent.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/09# Wicked Ways.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/04# Coming Down.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/12# Under and Over It (Remix).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/03# The Pride.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/05# Menace.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/11# 100 Ways to Hate.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/14# Remember Everything (Remix).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/06# Generation Dead.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/01# American Capitalist.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/02# Under and Over It.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/10# If I Fall.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/15# 100 Ways to Hate (Remix).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/16# The Tragic Truth.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/07# Back for More.mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/13# The Pride (Remix).mp3
+Dec 11 19:45 : update: updating Five Finger Death Punch - American Captialist/08# Remember Everything.mp3
+Dec 11 19:45 : client: [2] closed
+Dec 11 19:48 : player: played "Olivia Ruiz - Elle Panique.mp3"
+Dec 11 19:48 : client: [4] opened from [::1]:55762
+Dec 11 19:51 : player: played "Rick Astley - Never Gonna Give You Up (Video).mp3"
+Dec 11 19:55 : client: [5] opened from [::1]:56302
+Dec 11 19:55 : client: [5] closed
+Dec 11 19:55 : client: [6] opened from [::1]:56304
+Dec 11 19:55 : client: [6] closed
+Dec 11 19:55 : client: [7] opened from [::1]:56306
+Dec 11 19:55 : client: [7] closed
+Dec 11 19:55 : client: [8] opened from [::1]:56308
+Dec 11 19:55 : client: [8] closed
+Dec 11 19:55 : client: [9] opened from [::1]:56310
+Dec 11 19:55 : client: [9] closed
+Dec 11 19:55 : client: [10] opened from [::1]:56312
+Dec 11 19:55 : client: [10] closed
+Dec 11 19:58 : player: played "Two Door Cinema Club - What You Know.mp3"
+Dec 11 20:01 : client: [11] opened from [::1]:56366
+Dec 11 20:01 : client: [11] closed
+Dec 11 20:03 : client: [12] opened from [::1]:56458
+Dec 11 20:03 : client: [12] closed
+Dec 11 20:04 : client: [13] opened from [::1]:56470
+Dec 11 20:04 : client: [13] closed
+Dec 11 20:04 : client: [14] opened from [::1]:56472
+Dec 11 20:04 : client: [14] closed
+Dec 11 20:05 : client: [15] opened from [::1]:56548
+Dec 11 20:05 : client: [15] closed
+Dec 11 20:33 : player: played "La vie est belle.mp3"
+Dec 11 20:33 : client: [4] closed
+Dec 11 20:33 : client: [1] closed
+Dec 11 20:33 : player: played "SALES - chinese new year.mp3"
+Dec 11 20:33 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 11 20:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:34 : client: [0] opened from 127.0.0.1:55102
+Dec 11 20:34 : client: [0] closed
+Dec 11 20:34 : client: [1] opened from 127.0.0.1:55104
+Dec 11 20:36 : client: [2] opened from [::1]:40824
+Dec 11 20:36 : client: [2] closed
+Dec 11 20:39 : client: [1] closed
+Dec 11 20:39 : player: played "SALES - chinese new year.mp3"
+Dec 12 02:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 02:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 02:17 : client: [0] opened from 127.0.0.1:57742
+Dec 12 02:17 : client: [0] closed
+Dec 12 02:17 : client: [1] opened from 127.0.0.1:57744
+Dec 12 02:33 : client: [1] closed
+Dec 12 02:33 : player: played "SALES - chinese new year.mp3"
+Dec 12 04:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 04:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 04:46 : client: [0] opened from 127.0.0.1:60488
+Dec 12 04:46 : client: [0] closed
+Dec 12 04:46 : client: [1] opened from 127.0.0.1:60490
+Dec 12 04:47 : client: [2] opened from [::1]:39472
+Dec 12 04:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 04:49 : client: [2] closed
+Dec 12 04:49 : client: [1] closed
+Dec 12 04:49 : player: played "La vie est belle.mp3"
+Dec 12 04:49 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 12 08:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 08:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 08:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 08:41 : client: [0] opened from 127.0.0.1:60700
+Dec 12 08:41 : client: [0] closed
+Dec 12 08:41 : client: [1] opened from 127.0.0.1:60702
+Dec 12 08:41 : client: [2] opened from [::1]:40734
+Dec 12 08:41 : client: [2] closed
+Dec 12 08:41 : client: [3] opened from [::1]:40736
+Dec 12 08:41 : client: [3] closed
+Dec 12 08:41 : client: [4] opened from [::1]:40738
+Dec 12 08:41 : client: [4] closed
+Dec 12 08:41 : client: [5] opened from [::1]:40740
+Dec 12 08:41 : client: [5] closed
+Dec 12 08:41 : client: [6] opened from [::1]:40742
+Dec 12 08:41 : client: [6] closed
+Dec 12 08:41 : client: [7] opened from [::1]:40744
+Dec 12 08:41 : client: [7] closed
+Dec 12 08:41 : client: [8] opened from [::1]:40746
+Dec 12 08:41 : client: [8] closed
+Dec 12 08:41 : client: [9] opened from [::1]:40748
+Dec 12 08:41 : client: [9] closed
+Dec 12 08:41 : client: [10] opened from [::1]:40750
+Dec 12 08:41 : client: [10] closed
+Dec 12 08:41 : client: [11] opened from [::1]:40752
+Dec 12 08:41 : client: [11] closed
+Dec 12 08:41 : client: [12] opened from [::1]:40754
+Dec 12 08:41 : client: [12] closed
+Dec 12 08:41 : client: [13] opened from [::1]:40756
+Dec 12 08:41 : client: [13] closed
+Dec 12 08:41 : client: [14] opened from [::1]:40758
+Dec 12 08:41 : client: [14] closed
+Dec 12 08:41 : client: [15] opened from [::1]:40760
+Dec 12 08:41 : client: [15] closed
+Dec 12 08:41 : client: [16] opened from [::1]:40762
+Dec 12 08:41 : client: [16] closed
+Dec 12 08:41 : client: [17] opened from [::1]:40764
+Dec 12 08:41 : client: [17] closed
+Dec 12 08:41 : client: [18] opened from [::1]:40766
+Dec 12 08:41 : client: [18] closed
+Dec 12 08:41 : client: [19] opened from [::1]:40768
+Dec 12 08:41 : client: [19] closed
+Dec 12 08:41 : client: [20] opened from [::1]:40770
+Dec 12 08:41 : client: [20] closed
+Dec 12 08:41 : client: [21] opened from [::1]:40774
+Dec 12 08:41 : client: [21] closed
+Dec 12 08:41 : client: [22] opened from [::1]:40778
+Dec 12 08:47 : player: played "La vie est belle.mp3"
+Dec 12 08:48 : client: [23] opened from [::1]:40914
+Dec 12 08:48 : client: [23] closed
+Dec 12 08:51 : client: [24] opened from [::1]:40940
+Dec 12 08:51 : client: [24] closed
+Dec 12 10:28 : client: [22] closed
+Dec 12 10:28 : client: [1] closed
+Dec 12 10:28 : player: played "La vie est belle.mp3"
+Dec 12 20:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 20:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 20:26 : client: [0] opened from 127.0.0.1:54988
+Dec 12 20:26 : client: [0] closed
+Dec 12 20:26 : client: [1] opened from 127.0.0.1:54990
+Dec 12 20:30 : client: [1] closed
+Dec 12 20:30 : player: played "La vie est belle.mp3"
+Dec 13 10:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 10:42 : client: [0] opened from 127.0.0.1:33976
+Dec 13 10:42 : client: [0] closed
+Dec 13 10:42 : client: [1] opened from 127.0.0.1:33980
+Dec 13 10:43 : client: [1] closed
+Dec 13 10:43 : player: played "La vie est belle.mp3"
+Dec 14 13:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 13:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 13:02 : client: [0] opened from 127.0.0.1:35774
+Dec 14 13:02 : client: [0] closed
+Dec 14 13:02 : client: [1] opened from 127.0.0.1:35776
+Dec 14 13:03 : client: [2] opened from [::1]:40234
+Dec 14 13:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 13:03 : client: [2] closed
+Dec 14 13:03 : client: [3] opened from [::1]:40236
+Dec 14 13:03 : client: [3] closed
+Dec 14 13:03 : client: [4] opened from [::1]:40238
+Dec 14 13:03 : client: [4] closed
+Dec 14 13:03 : client: [5] opened from [::1]:40240
+Dec 14 13:03 : client: [5] closed
+Dec 14 13:03 : client: [6] opened from [::1]:40242
+Dec 14 13:03 : client: [6] closed
+Dec 14 13:03 : client: [7] opened from [::1]:40244
+Dec 14 13:03 : client: [7] closed
+Dec 14 13:03 : client: [8] opened from [::1]:40246
+Dec 14 13:03 : client: [8] closed
+Dec 14 13:03 : client: [9] opened from [::1]:40248
+Dec 14 13:03 : client: [9] closed
+Dec 14 13:03 : client: [10] opened from [::1]:40250
+Dec 14 13:03 : client: [10] closed
+Dec 14 13:03 : client: [11] opened from [::1]:40252
+Dec 14 13:03 : client: [11] closed
+Dec 14 13:03 : client: [12] opened from [::1]:40258
+Dec 14 13:03 : client: [12] closed
+Dec 14 13:07 : client: [13] opened from [::1]:40578
+Dec 14 13:07 : client: [13] closed
+Dec 14 13:59 : client: [14] opened from [::1]:41142
+Dec 14 13:59 : client: [14] closed
+Dec 14 13:59 : client: [15] opened from [::1]:41144
+Dec 14 13:59 : client: [15] closed
+Dec 14 13:59 : client: [16] opened from [::1]:41146
+Dec 14 13:59 : client: [16] closed
+Dec 14 13:59 : client: [1] closed
+Dec 14 13:59 : client: [17] opened from 127.0.0.1:36786
+Dec 14 14:00 : client: [18] opened from [::1]:41338
+Dec 14 14:00 : client: [18] closed
+Dec 14 14:25 : client: [19] opened from [::1]:41602
+Dec 14 14:25 : client: [19] closed
+Dec 14 14:29 : player: played "La vie est belle.mp3"
+Dec 14 14:29 : client: [20] opened from [::1]:41606
+Dec 14 14:29 : client: [20] closed
+Dec 14 14:30 : client: [21] opened from [::1]:41608
+Dec 14 14:30 : client: [21] closed
+Dec 14 14:35 : player: played "La vie est belle.mp3"
+Dec 14 14:39 : client: [22] opened from [::1]:41714
+Dec 14 14:46 : client: [23] opened from [::1]:41976
+Dec 14 14:46 : client: [23] closed
+Dec 14 14:46 : client: [24] opened from [::1]:41978
+Dec 14 14:46 : client: [24] closed
+Dec 14 14:46 : client: [25] opened from [::1]:41980
+Dec 14 14:46 : client: [25] closed
+Dec 14 14:46 : client: [26] opened from [::1]:41982
+Dec 14 14:46 : client: [26] closed
+Dec 14 14:46 : client: [27] opened from [::1]:41984
+Dec 14 14:46 : client: [27] closed
+Dec 14 14:47 : client: [22] closed
+Dec 14 14:47 : client: [17] closed
+Dec 14 14:47 : player: played "Two Door Cinema Club - What You Know.mp3"
+Dec 14 14:47 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 14 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 15:58 : client: [0] opened from 127.0.0.1:36374
+Dec 14 15:58 : client: [0] closed
+Dec 14 15:58 : client: [1] opened from 127.0.0.1:36376
+Dec 14 15:58 : client: [2] opened from [::1]:44980
+Dec 14 15:58 : client: [2] closed
+Dec 14 15:59 : client: [3] opened from [::1]:44986
+Dec 14 15:59 : client: [3] closed
+Dec 14 15:59 : client: [4] opened from [::1]:44988
+Dec 14 15:59 : client: [4] closed
+Dec 14 16:00 : client: [5] opened from [::1]:45006
+Dec 14 16:05 : client: [6] opened from [::1]:45034
+Dec 14 16:05 : client: [6] closed
+Dec 14 16:54 : client: [7] opened from [::1]:45606
+Dec 14 16:54 : client: [7] closed
+Dec 14 16:54 : client: [8] opened from [::1]:45608
+Dec 14 16:54 : client: [8] closed
+Dec 14 16:54 : client: [9] opened from [::1]:45610
+Dec 14 16:54 : client: [9] closed
+Dec 14 16:54 : client: [10] opened from [::1]:45612
+Dec 14 16:54 : client: [10] closed
+Dec 14 16:54 : client: [11] opened from [::1]:45614
+Dec 14 16:54 : client: [11] closed
+Dec 14 16:56 : client: [5] closed
+Dec 14 16:57 : client: [1] closed
+Dec 14 16:57 : player: played "La vie est belle.mp3"
+Dec 14 16:57 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 14 19:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 19:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 19:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 19:48 : client: [0] opened from 127.0.0.1:32858
+Dec 14 19:48 : client: [0] closed
+Dec 14 19:48 : client: [1] opened from 127.0.0.1:32860
+Dec 14 19:50 : client: [2] opened from [::1]:44502
+Dec 14 19:50 : client: [3] opened from [::1]:44504
+Dec 14 19:50 : client: [2] closed
+Dec 14 19:50 : client: [3] closed
+Dec 14 19:55 : client: [4] opened from [::1]:44892
+Dec 14 19:55 : client: [4] closed
+Dec 14 20:00 : client: [1] closed
+Dec 14 20:00 : player: played "La vie est belle.mp3"
+Dec 15 12:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 12:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 12:49 : client: [0] opened from 127.0.0.1:52052
+Dec 15 12:49 : client: [0] closed
+Dec 15 12:49 : client: [1] opened from 127.0.0.1:52056
+Dec 15 12:52 : client: [1] closed
+Dec 15 12:52 : client: [2] opened from 127.0.0.1:52084
+Dec 15 12:52 : client: [2] closed
+Dec 15 12:52 : client: [3] opened from 127.0.0.1:52086
+Dec 15 12:56 : client: [3] closed
+Dec 15 12:56 : client: [4] opened from 127.0.0.1:52118
+Dec 15 12:56 : client: [4] closed
+Dec 15 12:56 : player: played "La vie est belle.mp3"
+Dec 15 16:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 16:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 16:34 : client: [0] opened from 127.0.0.1:53220
+Dec 15 16:34 : client: [0] closed
+Dec 15 16:34 : client: [1] opened from 127.0.0.1:53222
+Dec 15 16:34 : client: [2] opened from [::1]:36678
+Dec 15 16:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 16:34 : client: [2] closed
+Dec 15 16:34 : client: [3] opened from [::1]:36680
+Dec 15 16:34 : client: [3] closed
+Dec 15 16:35 : client: [4] opened from [::1]:36788
+Dec 15 16:35 : client: [4] closed
+Dec 15 16:43 : client: [5] opened from [::1]:36992
+Dec 15 16:43 : client: [5] closed
+Dec 15 16:43 : client: [6] opened from [::1]:36998
+Dec 15 16:43 : client: [6] closed
+Dec 15 16:48 : client: [7] opened from [::1]:37326
+Dec 15 16:48 : client: [7] closed
+Dec 15 16:52 : player: played "La vie est belle.mp3"
+Dec 15 16:54 : client: [8] opened from [::1]:37546
+Dec 15 16:54 : player: played "La vie est belle.mp3"
+Dec 15 16:55 : client: [8] closed
+Dec 15 16:59 : client: [9] opened from [::1]:37650
+Dec 15 16:59 : client: [9] closed
+Dec 15 17:03 : player: played "Sälen - The Drwg.mp3"
+Dec 15 17:05 : player: played "Beach Boys- I get Around.mp3"
+Dec 15 17:09 : player: played "Ｄｏｏｍｅｒ Ｗａｖｅ - Love My Way.mp3"
+Dec 15 17:10 : client: [10] opened from [::1]:37926
+Dec 15 17:10 : client: [10] closed
+Dec 15 17:10 : client: [11] opened from [::1]:37930
+Dec 15 17:10 : client: [11] closed
+Dec 15 17:10 : client: [12] opened from [::1]:37932
+Dec 15 17:10 : client: [12] closed
+Dec 15 17:13 : client: [13] opened from [::1]:38030
+Dec 15 17:13 : client: [13] closed
+Dec 15 17:13 : client: [14] opened from [::1]:38032
+Dec 15 17:13 : client: [14] closed
+Dec 15 17:13 : client: [15] opened from [::1]:38034
+Dec 15 17:13 : client: [15] closed
+Dec 15 17:13 : client: [16] opened from [::1]:38036
+Dec 15 17:13 : client: [16] closed
+Dec 15 17:13 : client: [17] opened from [::1]:38038
+Dec 15 17:13 : client: [17] closed
+Dec 15 17:13 : client: [18] opened from [::1]:38040
+Dec 15 17:13 : client: [18] closed
+Dec 15 17:13 : client: [19] opened from [::1]:38042
+Dec 15 17:13 : client: [19] closed
+Dec 15 17:13 : client: [20] opened from [::1]:38044
+Dec 15 17:13 : client: [20] closed
+Dec 15 17:13 : client: [21] opened from [::1]:38046
+Dec 15 17:13 : client: [21] closed
+Dec 15 17:13 : client: [22] opened from [::1]:38048
+Dec 15 17:13 : client: [22] closed
+Dec 15 17:13 : client: [23] opened from [::1]:38050
+Dec 15 17:13 : client: [23] closed
+Dec 15 17:13 : client: [24] opened from [::1]:38052
+Dec 15 17:13 : client: [24] closed
+Dec 16 13:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 13:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 13:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 13:08 : client: [0] opened from 127.0.0.1:33690
+Dec 16 13:08 : client: [0] closed
+Dec 16 13:08 : client: [1] opened from 127.0.0.1:33692
+Dec 16 13:13 : player: played "La vie est belle.mp3"
+Dec 16 13:14 : client: [2] opened from [::1]:48452
+Dec 16 13:14 : client: [2] closed
+Dec 16 13:27 : client: [3] opened from [::1]:49084
+Dec 16 13:27 : client: [3] closed
+Dec 16 13:27 : client: [4] opened from [::1]:49086
+Dec 16 13:27 : client: [4] closed
+Dec 16 13:28 : client: [5] opened from [::1]:49126
+Dec 16 13:28 : client: [5] closed
+Dec 16 15:05 : client: [6] opened from [::1]:49758
+Dec 16 15:05 : client: [6] closed
+Dec 16 15:05 : client: [7] opened from [::1]:49760
+Dec 16 15:05 : client: [7] closed
+Dec 16 15:08 : client: [8] opened from [::1]:49764
+Dec 16 15:08 : client: [8] closed
+Dec 16 16:04 : client: [9] opened from [::1]:49890
+Dec 16 16:04 : client: [9] closed
+Dec 16 16:04 : client: [10] opened from [::1]:49892
+Dec 16 16:04 : client: [10] closed
+Dec 16 16:04 : client: [11] opened from [::1]:49894
+Dec 16 16:04 : client: [11] closed
+Dec 16 16:08 : player: played "Sälen - The Drwg.mp3"
+Dec 16 16:12 : player: played "Fade Into You.mp3"
+Dec 16 16:16 : player: played "Atmosphere - Sunshine (Official Video).mp3"
+Dec 16 16:17 : client: [1] closed
+Dec 16 16:19 : player: played "KamadoTanjiro.mp3"
+Dec 16 16:19 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 16 17:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 17:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 17:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 17:18 : client: [0] opened from 127.0.0.1:58236
+Dec 16 17:18 : client: [0] closed
+Dec 16 17:18 : client: [1] opened from 127.0.0.1:58238
+Dec 16 17:18 : client: [2] opened from [::1]:39608
+Dec 16 17:18 : client: [2] closed
+Dec 16 17:19 : client: [3] opened from [::1]:39614
+Dec 16 17:19 : client: [3] closed
+Dec 16 17:19 : client: [4] opened from [::1]:39618
+Dec 16 17:19 : client: [4] closed
+Dec 16 17:19 : client: [5] opened from [::1]:39620
+Dec 16 17:19 : client: [5] closed
+Dec 16 17:19 : client: [6] opened from [::1]:39624
+Dec 16 17:19 : client: [6] closed
+Dec 16 17:19 : client: [7] opened from [::1]:39632
+Dec 16 17:21 : player: played "Olivia Ruiz - Elle Panique.mp3"
+Dec 16 17:29 : player: played "Lord Huron - The Night We Met.mp3"
+Dec 16 17:34 : player: played "Hey Moon.mp3"
+Dec 16 17:34 : client: [8] opened from [::1]:40176
+Dec 16 17:34 : client: [8] closed
+Dec 16 17:36 : client: [9] opened from [::1]:40178
+Dec 16 17:36 : client: [9] closed
+Dec 16 17:36 : client: [10] opened from [::1]:40180
+Dec 16 17:36 : client: [10] closed
+Dec 16 17:36 : client: [11] opened from [::1]:40182
+Dec 16 17:36 : client: [11] closed
+Dec 16 17:36 : client: [12] opened from [::1]:40184
+Dec 16 17:36 : client: [12] closed
+Dec 16 17:36 : client: [13] opened from [::1]:40186
+Dec 16 17:36 : client: [13] closed
+Dec 16 17:36 : client: [14] opened from [::1]:40188
+Dec 16 17:36 : client: [14] closed
+Dec 16 17:36 : client: [15] opened from [::1]:40190
+Dec 16 17:36 : client: [15] closed
+Dec 16 17:36 : client: [16] opened from [::1]:40192
+Dec 16 17:36 : client: [16] closed
+Dec 16 17:36 : client: [17] opened from [::1]:40194
+Dec 16 17:36 : client: [17] closed
+Dec 16 17:37 : client: [18] opened from [::1]:40196
+Dec 16 17:37 : client: [18] closed
+Dec 16 17:37 : client: [19] opened from [::1]:40198
+Dec 16 17:37 : client: [19] closed
+Dec 16 17:37 : client: [20] opened from [::1]:40200
+Dec 16 17:37 : client: [20] closed
+Dec 16 17:37 : client: [21] opened from [::1]:40202
+Dec 16 17:37 : client: [21] closed
+Dec 16 17:37 : client: [22] opened from [::1]:40204
+Dec 16 17:37 : client: [22] closed
+Dec 16 17:37 : client: [23] opened from [::1]:40206
+Dec 16 17:37 : client: [23] closed
+Dec 16 17:37 : client: [24] opened from [::1]:40208
+Dec 16 17:37 : client: [24] closed
+Dec 16 17:37 : client: [25] opened from [::1]:40210
+Dec 16 17:37 : client: [25] closed
+Dec 16 17:37 : client: [26] opened from [::1]:40212
+Dec 16 17:37 : client: [26] closed
+Dec 16 17:37 : client: [27] opened from [::1]:40214
+Dec 16 17:37 : client: [27] closed
+Dec 16 17:37 : client: [28] opened from [::1]:40216
+Dec 16 17:37 : client: [28] closed
+Dec 16 17:37 : client: [29] opened from [::1]:40218
+Dec 16 17:37 : client: [29] closed
+Dec 16 17:37 : client: [30] opened from [::1]:40220
+Dec 16 17:37 : client: [30] closed
+Dec 16 17:43 : client: [7] closed
+Dec 16 17:43 : client: [31] opened from [::1]:40226
+Dec 16 17:47 : player: played "Vanessa Paradis-Le Tourbillon De La Vie.mp3"
+Dec 16 17:51 : client: [32] opened from 127.0.0.1:59228
+Dec 16 17:51 : client: [32] closed
+Dec 16 17:51 : client: [33] opened from 127.0.0.1:59230
+Dec 16 17:51 : client: [33] closed
+Dec 16 17:51 : client: [34] opened from 127.0.0.1:59232
+Dec 16 17:51 : client: [34] closed
+Dec 16 17:51 : client: [35] opened from 127.0.0.1:59234
+Dec 16 17:51 : client: [35] closed
+Dec 16 17:51 : player: played "Justice - D.A.N.C.E. - †.mp3"
+Dec 16 17:51 : exception: No such song
+Dec 16 17:56 : exception: Playlist already exists
+Dec 16 17:59 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 16 18:00 : client: [31] closed
+Dec 16 18:00 : client: [36] opened from [::1]:40636
+Dec 16 18:00 : client: [36] closed
+Dec 16 18:00 : client: [37] opened from [::1]:40638
+Dec 16 18:00 : client: [37] closed
+Dec 16 18:00 : client: [38] opened from [::1]:40640
+Dec 16 18:00 : client: [38] closed
+Dec 16 18:00 : client: [39] opened from [::1]:40642
+Dec 16 18:00 : client: [39] closed
+Dec 16 18:00 : client: [40] opened from [::1]:40644
+Dec 16 18:00 : client: [40] closed
+Dec 16 18:00 : client: [41] opened from [::1]:40646
+Dec 16 18:00 : client: [41] closed
+Dec 16 18:00 : client: [42] opened from [::1]:40648
+Dec 16 18:00 : client: [42] closed
+Dec 16 18:00 : client: [43] opened from [::1]:40650
+Dec 16 18:00 : client: [43] closed
+Dec 16 18:00 : client: [44] opened from [::1]:40652
+Dec 16 18:00 : client: [44] closed
+Dec 16 18:00 : client: [45] opened from [::1]:40654
+Dec 16 18:00 : client: [45] closed
+Dec 16 18:00 : client: [46] opened from [::1]:40656
+Dec 16 18:00 : client: [46] closed
+Dec 16 18:00 : client: [47] opened from [::1]:40658
+Dec 16 18:00 : player: played "The Jimi Hendrix Experience - Are You Experienced/15.51st Anniversary.mp3"
+Dec 16 19:03 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 16 19:03 : client: [48] opened from [::1]:41048
+Dec 16 19:03 : client: [48] closed
+Dec 16 19:03 : client: [49] opened from [::1]:41050
+Dec 16 19:03 : client: [49] closed
+Dec 16 19:04 : client: [50] opened from [::1]:41054
+Dec 16 19:04 : client: [50] closed
+Dec 16 19:04 : client: [51] opened from [::1]:41056
+Dec 16 19:04 : client: [51] closed
+Dec 16 19:04 : client: [52] opened from [::1]:41058
+Dec 16 19:04 : client: [52] closed
+Dec 16 19:04 : client: [53] opened from [::1]:41060
+Dec 16 19:04 : client: [53] closed
+Dec 16 19:04 : client: [54] opened from [::1]:41062
+Dec 16 19:04 : client: [54] closed
+Dec 16 19:04 : client: [55] opened from [::1]:41064
+Dec 16 19:04 : client: [55] closed
+Dec 16 19:04 : client: [56] opened from [::1]:41066
+Dec 16 19:04 : client: [56] closed
+Dec 16 19:04 : client: [57] opened from [::1]:41068
+Dec 16 19:04 : client: [57] closed
+Dec 16 19:04 : client: [58] opened from [::1]:41070
+Dec 16 19:04 : client: [58] closed
+Dec 16 19:04 : client: [59] opened from [::1]:41072
+Dec 16 19:04 : client: [59] closed
+Dec 16 19:04 : client: [60] opened from [::1]:41074
+Dec 16 19:04 : client: [60] closed
+Dec 16 19:04 : client: [61] opened from [::1]:41076
+Dec 16 19:04 : client: [61] closed
+Dec 16 19:04 : client: [62] opened from [::1]:41078
+Dec 16 19:04 : client: [62] closed
+Dec 16 19:04 : client: [63] opened from [::1]:41080
+Dec 16 19:04 : client: [63] closed
+Dec 16 19:04 : client: [64] opened from [::1]:41082
+Dec 16 19:04 : client: [64] closed
+Dec 16 19:10 : client: [65] opened from [::1]:41246
+Dec 16 19:10 : client: [65] closed
+Dec 16 19:59 : client: [66] opened from [::1]:41272
+Dec 16 19:59 : client: [66] closed
+Dec 16 19:59 : client: [67] opened from [::1]:41274
+Dec 16 19:59 : client: [67] closed
+Dec 16 20:01 : client: [1] closed
+Dec 16 20:01 : client: [68] opened from 127.0.0.1:60002
+Dec 16 20:02 : client: [47] closed
+Dec 16 20:02 : client: [69] opened from [::1]:41390
+Dec 16 20:02 : client: [68] closed
+Dec 16 20:02 : client: [70] opened from 127.0.0.1:60032
+Dec 16 20:04 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Dec 16 20:05 : client: [71] opened from [::1]:41554
+Dec 16 20:05 : client: [71] closed
+Dec 16 20:09 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 16 20:11 : player: played "xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3"
+Dec 16 20:12 : client: [70] closed
+Dec 16 20:12 : client: [72] opened from 127.0.0.1:60482
+Dec 16 20:15 : player: played "Meet the Frownies.mp3"
+Dec 16 20:15 : client: [69] closed
+Dec 16 20:15 : client: [73] opened from [::1]:41994
+Dec 16 20:17 : client: [73] closed
+Dec 16 20:18 : client: [72] closed
+Dec 16 20:18 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 16 20:18 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 16 20:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 20:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 20:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 20:19 : client: [0] opened from 127.0.0.1:36548
+Dec 16 20:19 : client: [0] closed
+Dec 16 20:19 : client: [1] opened from 127.0.0.1:36550
+Dec 16 20:21 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 16 20:24 : client: [2] opened from [::1]:46242
+Dec 16 20:24 : client: [2] closed
+Dec 16 20:30 : client: [1] closed
+Dec 16 20:30 : client: [3] opened from 127.0.0.1:36860
+Dec 16 20:30 : client: [4] opened from [::1]:46376
+Dec 16 20:30 : client: [4] closed
+Dec 16 20:30 : player: played "O. V. Wright - Motherless Child.mp3"
