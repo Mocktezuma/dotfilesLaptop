@@ -137,6 +137,7 @@ alias duSort='du -hs * | sort -h'
 alias pvpn='sudo protonvpn'
 alias sudo reboot='timew stop 'computer'&& sudo reboot' 
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias syu='sudo pacman -Syu'
 
 # nnn file config
 
