@@ -217,8 +217,8 @@ client.background       $bg
 for_window [class="^.*"] border pixel 3 
 assign [class="firefoxdeveloperedition"] 2
 assign [class="discord"] 9
-assign [class="ncmpcpp"] 10
-bindsym $mod+Shift+m exec st -c ncmpcpp ncmpcpp
+assign [class="Music"] 10
+bindsym $mod+Shift+m exec st -c "Music" -e ncmpcpp
 gaps inner 13
 gaps outer 9
 exec "wal -R"
