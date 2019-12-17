@@ -38,7 +38,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 # media controls
 bindsym XF86AudioPlay exec "mpc toggle"
 bindsym XF86AudioNext exec "mpc next"
-bindsym XF86AudioPrev exec "mpc prev"
+bindsym XF86AudioPrev exec "mpc cdprev"
 
 # screen brightness controls
 bindsym XF86MonBrightnessUp exec xbacklight -inc 10
