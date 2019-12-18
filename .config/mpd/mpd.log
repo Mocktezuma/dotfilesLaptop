@@ -5203,3 +5203,278 @@ Dec 17 21:51 : client: [50] opened from [::1]:55630
 Dec 17 21:51 : client: [50] closed
 Dec 17 21:51 : client: [51] opened from [::1]:55632
 Dec 17 21:51 : client: [51] closed
+Dec 17 21:56 : player: played "La vie est belle.mp3"
+Dec 17 22:02 : player: played "Mac Miller - Self Care.mp3"
+Dec 17 22:05 : player: played "Two Door Cinema Club - What You Know.mp3"
+Dec 17 22:06 : client: [34] closed
+Dec 17 22:06 : client: [52] opened from 127.0.0.1:50348
+Dec 18 11:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 11:35 : client: [0] opened from 127.0.0.1:58060
+Dec 18 11:35 : client: [0] closed
+Dec 18 11:35 : client: [1] opened from 127.0.0.1:58062
+Dec 18 11:35 : client: [2] opened from [::1]:45686
+Dec 18 11:35 : client: [2] closed
+Dec 18 11:35 : client: [3] opened from [::1]:45688
+Dec 18 11:35 : client: [3] closed
+Dec 18 11:35 : client: [4] opened from [::1]:45690
+Dec 18 11:35 : client: [4] closed
+Dec 18 11:35 : client: [5] opened from 127.0.0.1:58070
+Dec 18 11:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 11:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 11:42 : client: [6] opened from [::1]:45820
+Dec 18 11:42 : client: [6] closed
+Dec 18 12:58 : client: [5] closed
+Dec 18 12:58 : client: [1] closed
+Dec 18 12:58 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 18 14:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 14:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 14:39 : client: [0] opened from 127.0.0.1:36456
+Dec 18 14:39 : client: [0] closed
+Dec 18 14:39 : client: [1] opened from 127.0.0.1:36458
+Dec 18 14:39 : client: [2] opened from [::1]:34424
+Dec 18 14:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 14:39 : client: [2] closed
+Dec 18 14:39 : client: [3] opened from [::1]:34426
+Dec 18 14:39 : client: [3] closed
+Dec 18 14:43 : client: [4] opened from [::1]:34482
+Dec 18 14:43 : client: [4] closed
+Dec 18 14:46 : client: [5] opened from [::1]:34494
+Dec 18 14:46 : client: [5] closed
+Dec 18 14:47 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 18 14:48 : client: [6] opened from [::1]:34504
+Dec 18 14:48 : exception: Not playing
+Dec 18 14:48 : client: [6] closed
+Dec 18 14:48 : client: [7] opened from [::1]:34508
+Dec 18 14:48 : exception: Not playing
+Dec 18 14:48 : client: [7] closed
+Dec 18 14:48 : client: [8] opened from [::1]:34510
+Dec 18 14:48 : client: [8] closed
+Dec 18 14:48 : client: [9] opened from [::1]:34512
+Dec 18 14:48 : client: [9] closed
+Dec 18 14:48 : client: [10] opened from [::1]:34514
+Dec 18 14:48 : client: [10] closed
+Dec 18 14:48 : client: [11] opened from [::1]:34516
+Dec 18 14:48 : client: [12] opened from [::1]:34518
+Dec 18 14:48 : client: [11] closed
+Dec 18 14:48 : client: [12] closed
+Dec 18 14:48 : client: [13] opened from [::1]:34520
+Dec 18 14:48 : client: [13] closed
+Dec 18 14:52 : player: played "Gotye - Somebody That I Used To Know (feat. Kimbra) - official music video.mp3"
+Dec 18 14:53 : client: [14] opened from [::1]:35016
+Dec 18 14:53 : client: [14] closed
+Dec 18 14:53 : client: [15] opened from [::1]:35018
+Dec 18 14:53 : client: [15] closed
+Dec 18 14:53 : client: [16] opened from [::1]:35020
+Dec 18 14:53 : client: [16] closed
+Dec 18 14:53 : client: [17] opened from [::1]:35022
+Dec 18 14:53 : client: [17] closed
+Dec 18 14:53 : client: [18] opened from [::1]:35024
+Dec 18 14:53 : client: [18] closed
+Dec 18 14:53 : client: [19] opened from [::1]:35026
+Dec 18 14:53 : client: [19] closed
+Dec 18 14:53 : client: [20] opened from [::1]:35028
+Dec 18 14:53 : client: [20] closed
+Dec 18 14:53 : client: [21] opened from [::1]:35030
+Dec 18 14:53 : client: [21] closed
+Dec 18 14:53 : client: [22] opened from [::1]:35032
+Dec 18 14:53 : client: [22] closed
+Dec 18 14:53 : client: [23] opened from [::1]:35034
+Dec 18 14:53 : client: [23] closed
+Dec 18 14:53 : client: [24] opened from [::1]:35036
+Dec 18 14:53 : client: [24] closed
+Dec 18 14:53 : client: [25] opened from [::1]:35038
+Dec 18 14:53 : client: [25] closed
+Dec 18 14:53 : client: [26] opened from 127.0.0.1:37076
+Dec 18 14:57 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 18 14:58 : client: [26] closed
+Dec 18 14:58 : client: [27] opened from 127.0.0.1:37086
+Dec 18 14:59 : client: [28] opened from [::1]:35054
+Dec 18 14:59 : client: [28] closed
+Dec 18 15:00 : client: [27] closed
+Dec 18 15:26 : client: [29] opened from [::1]:35244
+Dec 18 15:26 : client: [29] closed
+Dec 18 15:26 : client: [30] opened from [::1]:35246
+Dec 18 15:26 : client: [30] closed
+Dec 18 15:26 : client: [31] opened from [::1]:35248
+Dec 18 15:26 : client: [31] closed
+Dec 18 15:26 : client: [32] opened from [::1]:35250
+Dec 18 15:26 : client: [32] closed
+Dec 18 15:26 : client: [33] opened from [::1]:35252
+Dec 18 15:26 : client: [34] opened from [::1]:35254
+Dec 18 15:26 : client: [33] closed
+Dec 18 15:26 : client: [34] closed
+Dec 18 15:26 : client: [35] opened from [::1]:35256
+Dec 18 15:26 : client: [35] closed
+Dec 18 15:26 : client: [36] opened from [::1]:35258
+Dec 18 15:26 : client: [36] closed
+Dec 18 15:26 : client: [37] opened from [::1]:35260
+Dec 18 15:26 : client: [37] closed
+Dec 18 15:26 : client: [38] opened from [::1]:35262
+Dec 18 15:26 : client: [39] opened from [::1]:35264
+Dec 18 15:26 : client: [40] opened from [::1]:35266
+Dec 18 15:26 : client: [38] closed
+Dec 18 15:26 : client: [39] closed
+Dec 18 15:26 : client: [40] closed
+Dec 18 15:26 : client: [41] opened from [::1]:35268
+Dec 18 15:26 : client: [41] closed
+Dec 18 15:26 : client: [42] opened from [::1]:35270
+Dec 18 15:26 : client: [42] closed
+Dec 18 15:26 : client: [43] opened from [::1]:35272
+Dec 18 15:26 : client: [43] closed
+Dec 18 15:26 : client: [44] opened from [::1]:35274
+Dec 18 15:26 : client: [44] closed
+Dec 18 15:26 : client: [45] opened from [::1]:35276
+Dec 18 15:26 : client: [45] closed
+Dec 18 15:27 : client: [46] opened from [::1]:35278
+Dec 18 15:27 : client: [46] closed
+Dec 18 15:27 : client: [47] opened from [::1]:35280
+Dec 18 15:27 : client: [47] closed
+Dec 18 15:27 : client: [48] opened from [::1]:35282
+Dec 18 15:27 : client: [49] opened from [::1]:35284
+Dec 18 15:27 : client: [50] opened from [::1]:35286
+Dec 18 15:27 : client: [48] closed
+Dec 18 15:27 : client: [49] closed
+Dec 18 15:27 : client: [50] closed
+Dec 18 15:27 : client: [51] opened from [::1]:35288
+Dec 18 15:27 : client: [52] opened from [::1]:35290
+Dec 18 15:27 : client: [53] opened from [::1]:35292
+Dec 18 15:27 : client: [54] opened from [::1]:35294
+Dec 18 15:27 : client: [51] closed
+Dec 18 15:27 : client: [55] opened from [::1]:35296
+Dec 18 15:27 : client: [52] closed
+Dec 18 15:27 : client: [53] closed
+Dec 18 15:27 : client: [55] closed
+Dec 18 15:27 : client: [54] closed
+Dec 18 15:27 : client: [56] opened from [::1]:35298
+Dec 18 15:27 : client: [57] opened from [::1]:35300
+Dec 18 15:27 : client: [58] opened from [::1]:35302
+Dec 18 15:27 : client: [59] opened from [::1]:35304
+Dec 18 15:27 : client: [56] closed
+Dec 18 15:27 : client: [60] opened from [::1]:35306
+Dec 18 15:27 : client: [57] closed
+Dec 18 15:27 : client: [59] closed
+Dec 18 15:27 : client: [58] closed
+Dec 18 15:27 : client: [60] closed
+Dec 18 15:27 : client: [61] opened from [::1]:35308
+Dec 18 15:27 : client: [62] opened from [::1]:35310
+Dec 18 15:27 : client: [63] opened from [::1]:35312
+Dec 18 15:27 : client: [61] closed
+Dec 18 15:27 : client: [62] closed
+Dec 18 15:27 : client: [63] closed
+Dec 18 15:27 : client: [64] opened from [::1]:35314
+Dec 18 15:27 : client: [64] closed
+Dec 18 15:27 : client: [65] opened from [::1]:35316
+Dec 18 15:27 : client: [65] closed
+Dec 18 15:27 : client: [66] opened from [::1]:35318
+Dec 18 15:27 : client: [67] opened from [::1]:35320
+Dec 18 15:27 : client: [66] closed
+Dec 18 15:27 : client: [67] closed
+Dec 18 15:27 : client: [68] opened from [::1]:35322
+Dec 18 15:27 : client: [68] closed
+Dec 18 15:27 : client: [69] opened from [::1]:35324
+Dec 18 15:27 : client: [70] opened from [::1]:35326
+Dec 18 15:27 : client: [69] closed
+Dec 18 15:27 : client: [70] closed
+Dec 18 15:33 : client: [71] opened from [::1]:35328
+Dec 18 15:33 : client: [71] closed
+Dec 18 15:33 : client: [72] opened from [::1]:35330
+Dec 18 15:33 : client: [72] closed
+Dec 18 15:33 : client: [73] opened from [::1]:35332
+Dec 18 15:33 : client: [73] closed
+Dec 18 15:33 : client: [74] opened from [::1]:35334
+Dec 18 15:33 : client: [74] closed
+Dec 18 15:33 : client: [75] opened from [::1]:35336
+Dec 18 15:33 : client: [75] closed
+Dec 18 15:33 : client: [76] opened from [::1]:35338
+Dec 18 15:33 : client: [76] closed
+Dec 18 15:33 : client: [77] opened from [::1]:35340
+Dec 18 15:33 : client: [77] closed
+Dec 18 15:33 : client: [78] opened from [::1]:35342
+Dec 18 15:33 : client: [78] closed
+Dec 18 15:33 : client: [79] opened from [::1]:35344
+Dec 18 15:33 : client: [79] closed
+Dec 18 15:33 : client: [80] opened from [::1]:35346
+Dec 18 15:33 : client: [80] closed
+Dec 18 15:33 : client: [81] opened from [::1]:35348
+Dec 18 15:33 : client: [81] closed
+Dec 18 15:33 : client: [82] opened from [::1]:35350
+Dec 18 15:33 : client: [82] closed
+Dec 18 15:33 : client: [83] opened from [::1]:35352
+Dec 18 15:33 : client: [83] closed
+Dec 18 15:33 : client: [84] opened from [::1]:35354
+Dec 18 15:33 : client: [84] closed
+Dec 18 15:33 : client: [85] opened from [::1]:35356
+Dec 18 15:33 : client: [85] closed
+Dec 18 15:33 : client: [86] opened from [::1]:35358
+Dec 18 15:33 : client: [86] closed
+Dec 18 15:36 : client: [87] opened from [::1]:35360
+Dec 18 15:36 : client: [87] closed
+Dec 18 18:16 : client: [88] opened from [::1]:35362
+Dec 18 18:16 : client: [88] closed
+Dec 18 18:16 : client: [89] opened from [::1]:35364
+Dec 18 18:16 : client: [89] closed
+Dec 18 18:16 : client: [90] opened from [::1]:35366
+Dec 18 18:16 : client: [90] closed
+Dec 18 18:16 : client: [91] opened from [::1]:35368
+Dec 18 18:16 : client: [91] closed
+Dec 18 18:21 : player: played "Daughter - Candles.mp3"
+Dec 18 18:25 : player: played "ｎｉｇｈｔｃａｌｌ.mp3"
+Dec 18 18:28 : client: [1] closed
+Dec 18 18:28 : player: played "Lord Huron - The Night We Met.mp3"
+Dec 18 18:28 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 18 18:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 18:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 18:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 18:29 : client: [0] opened from 127.0.0.1:43366
+Dec 18 18:29 : client: [0] closed
+Dec 18 18:29 : client: [1] opened from 127.0.0.1:43368
+Dec 18 18:29 : player: played "Lord Huron - The Night We Met.mp3"
+Dec 18 18:30 : client: [1] closed
+Dec 18 18:30 : player: played "Home resonance but you're in a bathroom at a party.mp3"
+Dec 18 18:30 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 18 19:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 19:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 19:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 19:11 : client: [0] opened from 127.0.0.1:51400
+Dec 18 19:11 : client: [0] closed
+Dec 18 19:11 : client: [1] opened from 127.0.0.1:51402
+Dec 18 19:12 : client: [1] closed
+Dec 18 19:12 : client: [2] opened from 127.0.0.1:51438
+Dec 18 19:13 : client: [3] opened from [::1]:52044
+Dec 18 19:13 : client: [3] closed
+Dec 18 19:38 : client: [4] opened from [::1]:52882
+Dec 18 19:38 : client: [4] closed
+Dec 18 19:38 : client: [5] opened from [::1]:52884
+Dec 18 19:38 : client: [5] closed
+Dec 18 19:38 : client: [6] opened from [::1]:52886
+Dec 18 19:38 : client: [6] closed
+Dec 18 19:38 : client: [7] opened from [::1]:52888
+Dec 18 19:38 : client: [7] closed
+Dec 18 19:38 : client: [8] opened from [::1]:52890
+Dec 18 19:38 : client: [8] closed
+Dec 18 19:38 : client: [9] opened from [::1]:52892
+Dec 18 19:38 : client: [9] closed
+Dec 18 19:38 : client: [10] opened from [::1]:52894
+Dec 18 19:38 : client: [10] closed
+Dec 18 19:38 : client: [11] opened from [::1]:52896
+Dec 18 19:38 : client: [11] closed
+Dec 18 19:38 : client: [12] opened from [::1]:52898
+Dec 18 19:38 : client: [12] closed
+Dec 18 19:38 : client: [13] opened from [::1]:52902
+Dec 18 19:38 : client: [13] closed
+Dec 18 19:38 : client: [14] opened from [::1]:52904
+Dec 18 19:38 : client: [14] closed
+Dec 18 19:38 : client: [15] opened from [::1]:52906
+Dec 18 19:38 : client: [15] closed
+Dec 18 19:42 : player: played "Vanessa Paradis-Le Tourbillon De La Vie.mp3"
+Dec 18 19:43 : client: [2] closed
+Dec 18 19:43 : client: [16] opened from 127.0.0.1:52562
+Dec 18 19:43 : client: [16] closed
+Dec 18 19:43 : client: [17] opened from 127.0.0.1:52566
+Dec 18 19:45 : player: played "Raphaël - schengen.mp3"
+Dec 18 19:45 : client: [17] closed
+Dec 18 19:45 : client: [18] opened from 127.0.0.1:52568
+Dec 18 19:45 : client: [18] closed
+Dec 18 19:45 : client: [19] opened from 127.0.0.1:52572
+Dec 18 19:48 : client: [20] opened from [::1]:53054
+Dec 18 19:48 : client: [20] closed
