@@ -5478,3 +5478,133 @@ Dec 18 19:45 : client: [18] closed
 Dec 18 19:45 : client: [19] opened from 127.0.0.1:52572
 Dec 18 19:48 : client: [20] opened from [::1]:53054
 Dec 18 19:48 : client: [20] closed
+Dec 18 19:50 : client: [21] opened from 127.0.0.1:52634
+Dec 18 19:51 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 18 19:52 : client: [22] opened from [::1]:53092
+Dec 18 19:52 : client: [22] closed
+Dec 18 19:52 : client: [23] opened from [::1]:53094
+Dec 18 19:52 : client: [23] closed
+Dec 18 19:52 : client: [24] opened from [::1]:53096
+Dec 18 19:52 : client: [24] closed
+Dec 18 19:53 : client: [25] opened from [::1]:53098
+Dec 18 19:53 : client: [25] closed
+Dec 18 20:01 : client: [21] closed
+Dec 18 20:01 : client: [26] opened from 127.0.0.1:52806
+Dec 18 20:01 : client: [26] closed
+Dec 18 20:01 : client: [27] opened from 127.0.0.1:52808
+Dec 18 20:03 : client: [27] closed
+Dec 18 20:05 : client: [28] opened from [::1]:53362
+Dec 18 20:05 : client: [28] closed
+Dec 18 20:05 : client: [29] opened from [::1]:53380
+Dec 18 20:05 : client: [29] closed
+Dec 18 20:06 : client: [30] opened from 127.0.0.1:52938
+Dec 18 20:06 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/14 Dot Your Eyes.mp3"
+Dec 18 20:07 : client: [30] closed
+Dec 18 20:07 : client: [31] opened from 127.0.0.1:52944
+Dec 18 20:09 : client: [31] closed
+Dec 18 20:10 : client: [19] closed
+Dec 18 20:10 : player: played "Five Finger Death Punch - Dot Your Eyes (Official Audio).mp3"
+Dec 18 20:10 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 19 12:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 12:14 : client: [0] opened from 127.0.0.1:40322
+Dec 19 12:14 : client: [0] closed
+Dec 19 12:14 : client: [1] opened from 127.0.0.1:40324
+Dec 19 12:14 : client: [2] opened from [::1]:45316
+Dec 19 12:14 : client: [2] closed
+Dec 19 12:15 : client: [1] closed
+Dec 19 12:15 : client: [3] opened from 127.0.0.1:40336
+Dec 19 12:15 : client: [4] opened from [::1]:45340
+Dec 19 12:15 : client: [4] closed
+Dec 19 12:35 : client: [5] opened from [::1]:45878
+Dec 19 12:35 : client: [5] closed
+Dec 19 12:37 : player: played "Five Finger Death Punch - Dot Your Eyes (Official Audio).mp3"
+Dec 19 12:37 : client: [6] opened from 127.0.0.1:40890
+Dec 19 12:41 : client: [6] closed
+Dec 19 12:42 : client: [7] opened from 127.0.0.1:40900
+Dec 19 12:42 : player: played "Five Finger Death Punch - Burn MF (Official Audio).mp3"
+Dec 19 12:44 : player: played "Five Finger Death Punch - Burn MF (Official Audio).mp3"
+Dec 19 12:46 : client: [8] opened from [::1]:45932
+Dec 19 12:46 : client: [8] closed
+Dec 19 12:50 : player: played "Five Finger Death Punch - Burn MF (Official Audio).mp3"
+Dec 19 12:56 : client: [7] closed
+Dec 19 12:59 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/14 Dot Your Eyes.mp3"
+Dec 19 12:59 : client: [9] opened from [::1]:46164
+Dec 19 12:59 : client: [9] closed
+Dec 19 12:59 : client: [10] opened from [::1]:46166
+Dec 19 12:59 : client: [10] closed
+Dec 19 12:59 : client: [11] opened from [::1]:46168
+Dec 19 12:59 : client: [11] closed
+Dec 19 13:05 : client: [12] opened from 127.0.0.1:41266
+Dec 19 13:44 : player: played "Five Finger Death Punch/The Wrong Side of Heaven And The Righteous Side Of Hell (Volume 1)/14 Dot Your Eyes.mp3"
+Dec 19 13:48 : player: played "REOL/エンドレスEP [11]/01 ニュータイプトーキョー.mp3"
+Dec 19 13:49 : client: [13] opened from [::1]:46502
+Dec 19 13:49 : client: [13] closed
+Dec 19 14:35 : client: [14] opened from [::1]:46506
+Dec 19 14:35 : client: [14] closed
+Dec 19 14:35 : player: played "REOL/エンドレスEP/03 エンドレスライン.mp3"
+Dec 19 14:41 : player: played "La vie est belle.mp3"
+Dec 19 14:45 : player: played "Franz Ferdinand - Take Me Out.mp3"
+Dec 19 14:49 : player: played "Justice - D.A.N.C.E. - †.mp3"
+Dec 19 14:55 : player: played "La vie est belle.mp3"
+Dec 19 14:59 : player: played "Justice - D.A.N.C.E. - †.mp3"
+Dec 19 15:03 : player: played "Franz Ferdinand - Take Me Out.mp3"
+Dec 19 15:08 : player: played "La vie est belle.mp3"
+Dec 19 15:12 : player: played "Justice - D.A.N.C.E. - †.mp3"
+Dec 19 15:16 : player: played "Franz Ferdinand - Take Me Out.mp3"
+Dec 19 15:21 : client: [3] closed
+Dec 19 15:21 : client: [15] opened from 127.0.0.1:42238
+Dec 19 15:22 : client: [12] closed
+Dec 19 15:22 : client: [16] opened from 127.0.0.1:42256
+Dec 19 15:30 : player: played "Daso - Meine.mp3"
+Dec 19 15:31 : client: [17] opened from [::1]:47348
+Dec 19 15:31 : client: [17] closed
+Dec 19 17:14 : client: [18] opened from [::1]:52074
+Dec 19 17:14 : client: [18] closed
+Dec 19 17:15 : client: [16] closed
+Dec 19 17:18 : client: [19] opened from [::1]:52158
+Dec 19 17:18 : client: [19] closed
+Dec 19 17:19 : client: [15] closed
+Dec 19 17:19 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 19 17:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 17:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 17:50 : client: [0] opened from 127.0.0.1:58086
+Dec 19 17:50 : client: [0] closed
+Dec 19 17:50 : client: [1] opened from 127.0.0.1:58088
+Dec 19 17:51 : client: [1] closed
+Dec 19 17:51 : client: [2] opened from 127.0.0.1:58090
+Dec 19 17:51 : client: [2] closed
+Dec 19 17:51 : client: [3] opened from 127.0.0.1:58092
+Dec 19 17:51 : client: [3] closed
+Dec 19 17:51 : client: [4] opened from 127.0.0.1:58094
+Dec 19 17:52 : client: [4] closed
+Dec 19 17:52 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 19 19:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 19:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 19:47 : client: [0] opened from 127.0.0.1:56004
+Dec 19 19:47 : client: [0] closed
+Dec 19 19:47 : client: [1] opened from 127.0.0.1:56006
+Dec 19 19:47 : client: [2] opened from [::1]:38674
+Dec 19 19:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 19:47 : client: [2] closed
+Dec 19 19:48 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 19 19:50 : client: [1] closed
+Dec 19 19:50 : player: played "La vie est belle.mp3"
+Dec 19 19:50 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 19 20:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 20:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 20:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 19 20:10 : client: [0] opened from 127.0.0.1:46048
+Dec 19 20:10 : client: [0] closed
+Dec 19 20:10 : client: [1] opened from 127.0.0.1:46050
+Dec 19 20:13 : client: [1] closed
+Dec 19 20:13 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 19 20:13 : player: played "La vie est belle.mp3"
+Dec 20 09:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 20 09:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 20 09:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 20 09:21 : client: [0] opened from 127.0.0.1:35138
+Dec 20 09:21 : client: [0] closed
+Dec 20 09:21 : client: [1] opened from 127.0.0.1:35140
+Dec 20 09:22 : player: played "La vie est belle.mp3"
