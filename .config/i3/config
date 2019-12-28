@@ -41,8 +41,8 @@ bindsym XF86AudioNext exec "mpc next"
 bindsym XF86AudioPrev exec "mpc cdprev"
 
 # screen brightness controls
-bindsym XF86MonBrightnessUp exec xbacklight -inc 10
-bindsym XF86MonBrightnessDown exec xbacklight -dec 10
+bindsym XF86MonBrightnessUp exec xbacklight -inc 5
+bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 
 # lock screen
 bindsym $mod+x exec "/home/adri/.local/bin/betterlockscreen -l blur"
@@ -218,7 +218,9 @@ for_window [class="^.*"] border pixel 3
 assign [class="firefoxdeveloperedition"] 2
 assign [class="discord"] 9
 assign [class="Music"] 10
+assign [class="VScode"] 4
 bindsym $mod+Shift+m exec st -c "Music" -e ncmpcpp
+bindsym $mod+Shift+v exec st -c "VScode" -e code
 gaps inner 13
 gaps outer 9
 exec "wal -R"

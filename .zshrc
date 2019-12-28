@@ -94,7 +94,7 @@ ZSH_THEME=powerlevel10k/powerlevel10k
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(vscode git archlinux battery colorize colored-man-pages taskwarrior vi-mode zsh-syntax-highlighting)
+plugins=(nmap vscode git archlinux battery colorize colored-man-pages taskwarrior vi-mode zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 

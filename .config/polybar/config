@@ -280,22 +280,17 @@ label-connected = %essid%
 format-connected = <label-connected>
 ;format-connected = <ramp-signal> <label-connected>
 format-connected-foreground = ${colors.foreground}
-format-connected-background = ${colors.background}
 format-connected-prefix = "  "
 format-connected-prefix-foreground = ${colors.foreground}
-format-connected-prefix-background = ${colors.background}
 format-connected-underline = ${colors.foreground}
 
 label-disconnected = 睊
 label-disconnected-foreground = ${colors.shade1}
-label-disconnected-background = ${colors.background}
 
 format-disconnected = <label-disconnected>
 format-disconnected-foreground = ${colors.shade2}
-format-disconnected-background = ${colors.background}
 format-disconnected-prefix =
 format-disconnected-prefix-foreground = ${colors.shade3}
-format-disconnected-prefix-background = ${colors.background}
 format-disconnected-underline =${colors.shade5}
 
 ramp-signal-0 = ▁
