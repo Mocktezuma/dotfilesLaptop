@@ -1,9 +1,9 @@
-sw_volume: 92
+sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
-current: 29
-time: 4.151000
+current: 27
+time: 3.972000
 random: 1
 repeat: 1
 single: 0
@@ -44,4 +44,6 @@ playlist_begin
 29:All We Ever Wanted Was Everything.mp3
 30:Черниковская Хата - Нажми на кнопку.mp3
 31:Grateful Dead - Good Lovin' (Studio Version).mp3
+32:College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3
+33:Vanessa Paradis-Le Tourbillon De La Vie.mp3
 playlist_end

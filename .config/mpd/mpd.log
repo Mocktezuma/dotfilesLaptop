@@ -8285,3 +8285,46 @@ Dec 29 21:27 : client: [75] closed
 Dec 29 21:30 : player: played "Redbone - Come and Get Your Love (Official Audio).mp3"
 Dec 29 21:30 : client: [76] opened from 127.0.0.1:48042
 Dec 29 21:43 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 29 21:52 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 29 21:53 : client: [77] opened from 127.0.0.1:48222
+Dec 29 21:53 : client: [77] closed
+Dec 29 21:54 : client: [78] opened from [::1]:60296
+Dec 29 21:54 : client: [78] closed
+Dec 29 22:03 : client: [79] opened from [::1]:60318
+Dec 29 22:03 : client: [79] closed
+Dec 29 22:06 : player: played "SALES - chinese new year.mp3"
+Dec 29 22:07 : client: [80] opened from [::1]:60324
+Dec 29 22:07 : client: [80] closed
+Dec 29 22:11 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 29 22:13 : client: [76] closed
+Dec 29 22:13 : client: [81] opened from 127.0.0.1:48272
+Dec 29 22:14 : client: [81] closed
+Dec 29 22:18 : player: played "College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3"
+Dec 29 22:21 : player: played "Redbone - Come and Get Your Love (Official Audio).mp3"
+Dec 29 22:24 : client: [49] closed
+Dec 29 22:24 : player: played "Sälen - The Drwg.mp3"
+Dec 29 22:24 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 30 08:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 08:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 08:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 08:04 : client: [0] opened from 127.0.0.1:43612
+Dec 30 08:04 : client: [0] closed
+Dec 30 08:04 : client: [1] opened from 127.0.0.1:43614
+Dec 30 08:05 : player: played "Sälen - The Drwg.mp3"
+Dec 30 08:07 : player: played "xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3"
+Dec 30 08:09 : client: [2] opened from [::1]:40124
+Dec 30 08:09 : client: [2] closed
+Dec 30 10:25 : client: [3] opened from [::1]:41190
+Dec 30 10:25 : client: [3] closed
+Dec 30 10:25 : client: [4] opened from [::1]:41192
+Dec 30 10:25 : client: [4] closed
+Dec 30 10:25 : client: [5] opened from [::1]:41194
+Dec 30 10:25 : client: [5] closed
+Dec 30 10:25 : client: [6] opened from [::1]:41196
+Dec 30 10:25 : client: [6] closed
+Dec 30 10:26 : client: [1] closed
+Dec 30 10:26 : client: [7] opened from 127.0.0.1:44756
+Dec 30 10:29 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 30 10:34 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Dec 30 10:34 : client: [7] closed
+Dec 30 10:34 : client: [8] opened from 127.0.0.1:44796
