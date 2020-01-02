@@ -8328,3 +8328,772 @@ Dec 30 10:29 : player: played "Metronomy - The Look (Music Video).mp3"
 Dec 30 10:34 : player: played "SWEATER WEATHER _ SLOWED.mp3"
 Dec 30 10:34 : client: [7] closed
 Dec 30 10:34 : client: [8] opened from 127.0.0.1:44796
+Dec 30 10:36 : client: [9] opened from 127.0.0.1:44804
+Dec 30 10:40 : player: played "somebody_1982.mp4.mp3"
+Dec 30 10:44 : player: played "Où je vais - La Rue Kétanou.mp3"
+Dec 30 10:49 : player: played "College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3"
+Dec 30 10:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 10:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 10:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 10:53 : client: [0] opened from 127.0.0.1:51270
+Dec 30 10:53 : client: [0] closed
+Dec 30 10:53 : client: [1] opened from 127.0.0.1:51272
+Dec 30 10:56 : player: played "Five Finger Death Punch - Burn MF (Official Audio).mp3"
+Dec 30 11:01 : player: played "College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3"
+Dec 30 11:04 : player: played "Sälen - The Drwg.mp3"
+Dec 30 11:07 : client: [2] opened from [::1]:56172
+Dec 30 11:07 : client: [2] closed
+Dec 30 11:11 : player: played "Of Monsters And Men - Little Talks (Official Video).mp3"
+Dec 30 11:17 : player: played "Mac Miller - Self Care.mp3"
+Dec 30 11:17 : client: [3] opened from [::1]:56228
+Dec 30 11:17 : client: [3] closed
+Dec 30 11:17 : client: [4] opened from [::1]:56230
+Dec 30 11:17 : client: [4] closed
+Dec 30 11:17 : client: [5] opened from [::1]:56232
+Dec 30 11:17 : client: [5] closed
+Dec 30 11:17 : client: [6] opened from [::1]:56234
+Dec 30 11:17 : client: [6] closed
+Dec 30 11:17 : client: [7] opened from [::1]:56240
+Dec 30 11:17 : client: [7] closed
+Dec 30 11:19 : client: [8] opened from [::1]:56248
+Dec 30 11:19 : client: [8] closed
+Dec 30 12:46 : client: [1] closed
+Dec 30 12:46 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 30 13:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 13:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 13:56 : client: [0] opened from 127.0.0.1:51376
+Dec 30 13:56 : client: [0] closed
+Dec 30 13:56 : client: [1] opened from 127.0.0.1:51378
+Dec 30 13:57 : client: [2] opened from [::1]:51762
+Dec 30 13:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 13:57 : client: [2] closed
+Dec 30 13:57 : client: [3] opened from [::1]:51764
+Dec 30 13:57 : client: [3] closed
+Dec 30 13:58 : client: [1] closed
+Dec 30 13:58 : client: [4] opened from 127.0.0.1:51470
+Dec 30 14:00 : client: [4] closed
+Dec 30 14:00 : client: [5] opened from 127.0.0.1:51494
+Dec 30 14:00 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 30 14:02 : client: [5] closed
+Dec 30 14:02 : client: [6] opened from 127.0.0.1:51506
+Dec 30 14:02 : client: [6] closed
+Dec 30 14:02 : client: [7] opened from 127.0.0.1:51508
+Dec 30 14:03 : player: played "People Are Strange (2017 Remaster).mp3"
+Dec 30 14:03 : client: [7] closed
+Dec 30 14:03 : client: [8] opened from 127.0.0.1:51510
+Dec 30 14:06 : player: played "[MV] REOL - drop pop candy.mp3"
+Dec 30 14:10 : player: played "Eurythmics - Sweet Dreams (Are Made Of This) (Official Video).mp3"
+Dec 30 14:14 : player: played "RATATAT - ABRASIVE.mp3"
+Dec 30 14:14 : client: [9] opened from [::1]:52416
+Dec 30 14:14 : client: [9] closed
+Dec 30 14:14 : client: [10] opened from [::1]:52418
+Dec 30 14:14 : client: [10] closed
+Dec 30 14:15 : client: [11] opened from [::1]:52420
+Dec 30 14:15 : client: [11] closed
+Dec 30 14:15 : client: [12] opened from [::1]:52422
+Dec 30 14:15 : client: [12] closed
+Dec 30 14:18 : player: played "SALES - chinese new year.mp3"
+Dec 30 14:20 : client: [13] opened from [::1]:52450
+Dec 30 14:20 : client: [13] closed
+Dec 30 14:44 : client: [14] opened from [::1]:52588
+Dec 30 14:44 : client: [14] closed
+Dec 30 14:49 : client: [15] opened from 127.0.0.1:52232
+Dec 30 15:00 : player: played "somebody_1982.mp4.mp3"
+Dec 30 15:13 : player: played "somebody_1982.mp4.mp3"
+Dec 30 15:14 : exception: Failed to open audio output
+Dec 30 15:14 : client: [15] closed
+Dec 30 15:17 : client: [16] opened from [::1]:52688
+Dec 30 15:17 : client: [16] closed
+Dec 30 15:17 : client: [17] opened from [::1]:52690
+Dec 30 15:17 : client: [17] closed
+Dec 30 15:20 : player: played "xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3"
+Dec 30 15:21 : client: [18] opened from 127.0.0.1:52328
+Dec 30 15:22 : client: [18] closed
+Dec 30 15:26 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Dec 30 15:30 : player: played "Of Monsters And Men - Little Talks (Official Video).mp3"
+Dec 30 15:30 : client: [19] opened from [::1]:52850
+Dec 30 15:30 : client: [19] closed
+Dec 30 15:30 : client: [20] opened from [::1]:52854
+Dec 30 15:30 : client: [20] closed
+Dec 30 15:31 : client: [21] opened from [::1]:52862
+Dec 30 15:31 : client: [21] closed
+Dec 30 15:38 : client: [8] closed
+Dec 30 15:38 : player: played "Sälen - The Drwg.mp3"
+Dec 30 15:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 15:59 : client: [0] opened from 127.0.0.1:32942
+Dec 30 15:59 : client: [0] closed
+Dec 30 15:59 : client: [1] opened from 127.0.0.1:32944
+Dec 30 15:59 : client: [2] opened from [::1]:58500
+Dec 30 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 15:59 : client: [2] closed
+Dec 30 15:59 : client: [3] opened from [::1]:58502
+Dec 30 15:59 : client: [3] closed
+Dec 30 16:00 : client: [4] opened from 127.0.0.1:32950
+Dec 30 16:03 : player: played "Sälen - The Drwg.mp3"
+Dec 30 16:07 : player: played "Sälen - The Drwg.mp3"
+Dec 30 16:08 : client: [5] opened from [::1]:58632
+Dec 30 16:08 : client: [5] closed
+Dec 30 16:12 : player: played "Of Monsters And Men - Little Talks (Official Video).mp3"
+Dec 30 16:18 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 30 16:21 : player: played "пасош - лето.mp3"
+Dec 30 16:21 : client: [6] opened from [::1]:59328
+Dec 30 16:21 : client: [6] closed
+Dec 30 16:21 : client: [7] opened from [::1]:59330
+Dec 30 16:21 : client: [7] closed
+Dec 30 16:26 : player: played "Grateful Dead - Good Lovin' (Studio Version).mp3"
+Dec 30 16:26 : client: [8] opened from [::1]:59418
+Dec 30 16:26 : client: [8] closed
+Dec 30 16:26 : client: [9] opened from [::1]:59420
+Dec 30 16:26 : client: [9] closed
+Dec 30 16:26 : client: [10] opened from [::1]:59422
+Dec 30 16:26 : client: [10] closed
+Dec 30 16:30 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 30 16:32 : player: played "People Are Strange (2017 Remaster).mp3"
+Dec 30 16:36 : player: played "Vanessa Paradis-Le Tourbillon De La Vie.mp3"
+Dec 30 16:36 : client: [11] opened from [::1]:59594
+Dec 30 16:36 : client: [11] closed
+Dec 30 16:42 : player: played "La vie est belle.mp3"
+Dec 30 16:45 : client: [12] opened from [::1]:59886
+Dec 30 16:45 : client: [12] closed
+Dec 30 16:53 : client: [13] opened from [::1]:59928
+Dec 30 16:53 : client: [13] closed
+Dec 30 16:54 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Dec 30 16:57 : client: [14] opened from [::1]:60046
+Dec 30 16:57 : client: [14] closed
+Dec 30 16:57 : client: [15] opened from [::1]:60048
+Dec 30 16:57 : client: [15] closed
+Dec 30 16:57 : client: [16] opened from [::1]:60050
+Dec 30 16:57 : client: [16] closed
+Dec 30 16:57 : client: [17] opened from [::1]:60052
+Dec 30 16:57 : client: [17] closed
+Dec 30 17:03 : player: played "Mac Miller - Self Care.mp3"
+Dec 30 17:07 : player: played "College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3"
+Dec 30 17:11 : player: played "somebody_1982.mp4.mp3"
+Dec 30 17:15 : player: played "Five Finger Death Punch - Burn MF (Official Audio).mp3"
+Dec 30 17:22 : player: played "Vanessa Paradis-Le Tourbillon De La Vie.mp3"
+Dec 30 17:29 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 30 17:33 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 30 17:33 : client: [18] opened from [::1]:60582
+Dec 30 17:33 : client: [18] closed
+Dec 30 17:33 : client: [19] opened from [::1]:60584
+Dec 30 17:33 : client: [19] closed
+Dec 30 17:33 : client: [20] opened from [::1]:60586
+Dec 30 17:33 : client: [20] closed
+Dec 30 17:33 : client: [21] opened from [::1]:60588
+Dec 30 17:33 : client: [21] closed
+Dec 30 17:33 : client: [22] opened from [::1]:60590
+Dec 30 17:33 : client: [22] closed
+Dec 30 17:36 : client: [23] opened from [::1]:60634
+Dec 30 17:36 : client: [23] closed
+Dec 30 18:12 : client: [24] opened from [::1]:60936
+Dec 30 18:12 : client: [24] closed
+Dec 30 19:09 : client: [25] opened from [::1]:32950
+Dec 30 19:09 : client: [25] closed
+Dec 30 19:10 : player: played "somebody_1982.mp4.mp3"
+Dec 30 19:10 : client: [26] opened from [::1]:32964
+Dec 30 19:10 : client: [26] closed
+Dec 30 19:13 : player: played "Nujabes - Feather-M.mp3"
+Dec 30 19:16 : player: played "Olivia Ruiz - Elle Panique.mp3"
+Dec 30 19:19 : client: [27] opened from [::1]:33018
+Dec 30 19:19 : client: [27] closed
+Dec 30 19:19 : client: [28] opened from [::1]:33020
+Dec 30 19:19 : client: [28] closed
+Dec 30 19:43 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 30 19:43 : client: [29] opened from 127.0.0.1:35944
+Dec 30 19:43 : client: [4] closed
+Dec 30 19:48 : player: played "【Silent Siren】「Routine」MUSIC VIDEO 【サイレントサイレン.mp3"
+Dec 30 19:52 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 30 19:57 : client: [30] opened from [::1]:33326
+Dec 30 19:57 : client: [30] closed
+Dec 30 19:58 : client: [31] opened from [::1]:33328
+Dec 30 19:58 : client: [31] closed
+Dec 30 19:58 : client: [32] opened from [::1]:33330
+Dec 30 19:58 : client: [32] closed
+Dec 30 19:58 : client: [33] opened from [::1]:33332
+Dec 30 19:58 : client: [33] closed
+Dec 30 19:58 : client: [34] opened from [::1]:33334
+Dec 30 19:58 : client: [34] closed
+Dec 30 19:58 : client: [35] opened from [::1]:33336
+Dec 30 19:58 : client: [35] closed
+Dec 30 19:58 : client: [36] opened from [::1]:33338
+Dec 30 19:58 : client: [36] closed
+Dec 30 19:58 : client: [37] opened from [::1]:33342
+Dec 30 19:58 : client: [37] closed
+Dec 30 19:58 : client: [38] opened from [::1]:33344
+Dec 30 19:58 : client: [38] closed
+Dec 30 19:58 : client: [39] opened from [::1]:33346
+Dec 30 19:58 : client: [39] closed
+Dec 30 19:58 : client: [40] opened from [::1]:33348
+Dec 30 19:58 : client: [40] closed
+Dec 30 19:58 : client: [41] opened from [::1]:33350
+Dec 30 19:58 : client: [41] closed
+Dec 30 19:58 : client: [42] opened from [::1]:33352
+Dec 30 19:58 : client: [42] closed
+Dec 30 19:58 : client: [43] opened from [::1]:33356
+Dec 30 19:58 : client: [43] closed
+Dec 30 20:03 : client: [44] opened from [::1]:33382
+Dec 30 20:03 : client: [44] closed
+Dec 30 20:03 : client: [45] opened from [::1]:33384
+Dec 30 20:03 : client: [45] closed
+Dec 30 20:03 : client: [46] opened from [::1]:33386
+Dec 30 20:03 : client: [46] closed
+Dec 30 20:07 : client: [1] closed
+Dec 30 20:07 : client: [47] opened from 127.0.0.1:36086
+Dec 30 20:08 : client: [47] closed
+Dec 30 20:08 : client: [48] opened from 127.0.0.1:36088
+Dec 30 20:08 : client: [48] closed
+Dec 30 20:08 : client: [49] opened from 127.0.0.1:36090
+Dec 30 20:08 : client: [29] closed
+Dec 30 20:08 : client: [50] opened from 127.0.0.1:36092
+Dec 30 20:10 : client: [50] closed
+Dec 30 20:10 : client: [49] closed
+Dec 30 20:10 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 30 20:10 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 31 08:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 31 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 31 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 31 08:26 : client: [0] opened from 127.0.0.1:44878
+Dec 31 08:26 : client: [0] closed
+Dec 31 08:26 : client: [1] opened from 127.0.0.1:44882
+Dec 31 08:27 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Dec 31 08:30 : client: [2] opened from [::1]:43448
+Dec 31 08:30 : client: [2] closed
+Dec 31 08:31 : client: [3] opened from [::1]:43494
+Dec 31 08:31 : client: [3] closed
+Dec 31 08:31 : client: [4] opened from [::1]:43506
+Dec 31 08:31 : client: [4] closed
+Dec 31 08:33 : client: [5] opened from [::1]:43582
+Dec 31 08:33 : client: [5] closed
+Dec 31 08:34 : client: [6] opened from [::1]:43630
+Dec 31 08:34 : client: [6] closed
+Dec 31 08:35 : client: [7] opened from [::1]:43638
+Dec 31 08:35 : client: [7] closed
+Dec 31 08:38 : player: played "Sälen - The Drwg.mp3"
+Dec 31 08:43 : player: played "Grateful Dead - Good Lovin' (Studio Version).mp3"
+Dec 31 08:46 : client: [8] opened from [::1]:44290
+Dec 31 08:46 : client: [8] closed
+Dec 31 08:52 : player: played "Mac Miller - Self Care.mp3"
+Dec 31 08:55 : player: played "SALES - chinese new year.mp3"
+Dec 31 08:57 : client: [9] opened from [::1]:44508
+Dec 31 08:57 : client: [9] closed
+Dec 31 09:03 : client: [10] opened from [::1]:44528
+Dec 31 09:03 : client: [10] closed
+Dec 31 09:04 : player: played "Five Finger Death Punch - Dot Your Eyes (Official Audio).mp3"
+Dec 31 09:09 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Dec 31 09:13 : client: [11] opened from [::1]:44822
+Dec 31 09:13 : client: [11] closed
+Dec 31 11:38 : client: [12] opened from [::1]:47194
+Dec 31 11:38 : client: [12] closed
+Dec 31 11:38 : client: [13] opened from [::1]:47196
+Dec 31 11:38 : client: [13] closed
+Dec 31 11:42 : client: [14] opened from [::1]:47230
+Dec 31 11:42 : client: [14] closed
+Dec 31 11:42 : client: [15] opened from [::1]:47232
+Dec 31 11:42 : client: [15] closed
+Dec 31 11:57 : client: [16] opened from [::1]:47284
+Dec 31 11:57 : client: [16] closed
+Dec 31 12:01 : player: played "'MY STICK!' — A Bad Lip Reading of The Last Jedi.mp3"
+Dec 31 12:03 : client: [17] opened from 127.0.0.1:48992
+Dec 31 12:06 : client: [18] opened from [::1]:47434
+Dec 31 12:06 : client: [18] closed
+Dec 31 13:21 : client: [19] opened from [::1]:47612
+Dec 31 13:21 : client: [19] closed
+Dec 31 13:26 : player: played "Vanessa Paradis-Le Tourbillon De La Vie.mp3"
+Dec 31 13:30 : player: played "Journey - Don't Stop Believin' (Audio).mp3"
+Dec 31 13:37 : client: [17] closed
+Dec 31 13:38 : client: [20] opened from [::1]:47888
+Dec 31 13:38 : client: [20] closed
+Dec 31 15:49 : client: [21] opened from [::1]:48204
+Dec 31 15:49 : client: [21] closed
+Dec 31 15:49 : client: [22] opened from [::1]:48206
+Dec 31 15:49 : client: [22] closed
+Dec 31 15:52 : client: [23] opened from [::1]:48332
+Dec 31 15:52 : client: [23] closed
+Dec 31 15:55 : player: played "Redbone - Come and Get Your Love (Official Audio).mp3"
+Dec 31 15:59 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 31 16:00 : client: [24] opened from [::1]:48534
+Dec 31 16:00 : client: [24] closed
+Dec 31 16:00 : client: [25] opened from [::1]:48540
+Dec 31 16:00 : client: [25] closed
+Dec 31 16:03 : client: [26] opened from [::1]:48562
+Dec 31 16:03 : client: [26] closed
+Dec 31 16:16 : client: [27] opened from 127.0.0.1:50290
+Dec 31 16:16 : client: [27] closed
+Dec 31 16:17 : player: played "Metronomy - The Look (Music Video).mp3"
+Dec 31 16:17 : client: [28] opened from [::1]:48766
+Dec 31 16:17 : client: [28] closed
+Dec 31 16:21 : player: played "somebody_1982.mp4.mp3"
+Dec 31 16:22 : client: [1] closed
+Dec 31 16:22 : client: [29] opened from 127.0.0.1:50382
+Dec 31 16:23 : client: [30] opened from [::1]:48822
+Dec 31 16:23 : client: [30] closed
+Dec 31 16:23 : client: [31] opened from [::1]:48824
+Dec 31 16:23 : client: [31] closed
+Dec 31 16:23 : client: [32] opened from [::1]:48826
+Dec 31 16:23 : client: [32] closed
+Dec 31 16:23 : client: [33] opened from [::1]:48828
+Dec 31 16:23 : client: [33] closed
+Dec 31 16:28 : client: [34] opened from [::1]:48842
+Dec 31 16:28 : client: [34] closed
+Dec 31 16:28 : client: [35] opened from [::1]:48844
+Dec 31 16:28 : client: [35] closed
+Dec 31 16:28 : client: [36] opened from [::1]:48846
+Dec 31 16:28 : client: [36] closed
+Dec 31 16:28 : client: [37] opened from [::1]:48848
+Dec 31 16:28 : client: [37] closed
+Dec 31 16:28 : client: [38] opened from [::1]:48850
+Dec 31 16:28 : client: [38] closed
+Dec 31 16:28 : client: [39] opened from [::1]:48852
+Dec 31 16:28 : client: [39] closed
+Dec 31 16:30 : client: [40] opened from [::1]:48864
+Dec 31 16:30 : client: [40] closed
+Dec 31 16:30 : client: [41] opened from [::1]:48866
+Dec 31 16:30 : client: [41] closed
+Dec 31 16:30 : client: [42] opened from [::1]:48868
+Dec 31 16:30 : client: [42] closed
+Dec 31 16:30 : client: [43] opened from [::1]:48870
+Dec 31 16:30 : client: [43] closed
+Dec 31 16:30 : client: [44] opened from [::1]:48872
+Dec 31 16:30 : client: [44] closed
+Dec 31 16:30 : client: [45] opened from [::1]:48874
+Dec 31 16:30 : client: [45] closed
+Dec 31 16:33 : player: played "Olivia Ruiz - Elle Panique.mp3"
+Dec 31 16:33 : client: [46] opened from [::1]:48878
+Dec 31 16:33 : client: [46] closed
+Dec 31 16:33 : client: [47] opened from [::1]:48880
+Dec 31 16:33 : client: [47] closed
+Dec 31 16:36 : client: [48] opened from [::1]:48884
+Dec 31 16:36 : client: [48] closed
+Dec 31 16:36 : client: [49] opened from [::1]:48886
+Dec 31 16:36 : client: [49] closed
+Dec 31 16:36 : client: [50] opened from [::1]:48888
+Dec 31 16:36 : client: [50] closed
+Dec 31 16:36 : client: [51] opened from [::1]:48890
+Dec 31 16:36 : client: [51] closed
+Dec 31 16:40 : client: [52] opened from [::1]:48924
+Dec 31 16:40 : client: [52] closed
+Dec 31 16:40 : client: [53] opened from [::1]:48926
+Dec 31 16:40 : client: [53] closed
+Dec 31 16:40 : client: [54] opened from [::1]:48928
+Dec 31 16:40 : client: [54] closed
+Dec 31 16:40 : client: [55] opened from [::1]:48930
+Dec 31 16:40 : client: [55] closed
+Dec 31 16:40 : client: [56] opened from [::1]:48932
+Dec 31 16:40 : client: [56] closed
+Dec 31 16:40 : client: [57] opened from [::1]:48934
+Dec 31 16:40 : client: [57] closed
+Dec 31 16:40 : client: [58] opened from [::1]:48936
+Dec 31 16:40 : client: [58] closed
+Dec 31 16:43 : client: [59] opened from [::1]:49006
+Dec 31 16:43 : client: [59] closed
+Dec 31 17:12 : client: [60] opened from [::1]:49262
+Dec 31 17:12 : client: [60] closed
+Dec 31 17:12 : client: [61] opened from [::1]:49264
+Dec 31 17:12 : client: [61] closed
+Dec 31 17:12 : client: [62] opened from [::1]:49266
+Dec 31 17:12 : client: [62] closed
+Dec 31 17:12 : client: [63] opened from [::1]:49268
+Dec 31 17:12 : client: [63] closed
+Dec 31 17:13 : client: [64] opened from [::1]:49270
+Dec 31 17:13 : client: [64] closed
+Dec 31 17:13 : client: [65] opened from [::1]:49272
+Dec 31 17:13 : client: [65] closed
+Dec 31 17:13 : client: [66] opened from [::1]:49274
+Dec 31 17:13 : client: [66] closed
+Dec 31 17:16 : player: played "All We Ever Wanted Was Everything.mp3"
+Dec 31 17:19 : client: [29] closed
+Dec 31 17:19 : client: [67] opened from 127.0.0.1:51056
+Dec 31 17:20 : player: played "Redbone - Come and Get Your Love (Official Audio).mp3"
+Dec 31 17:20 : client: [68] opened from [::1]:49496
+Dec 31 17:20 : client: [68] closed
+Dec 31 17:23 : player: played "SALES - chinese new year.mp3"
+Dec 31 17:27 : player: played "【Silent Siren】「Routine」MUSIC VIDEO 【サイレントサイレン.mp3"
+Dec 31 17:33 : player: played "Mac Miller - Self Care.mp3"
+Dec 31 17:33 : client: [69] opened from [::1]:49590
+Dec 31 17:33 : client: [69] closed
+Dec 31 17:33 : client: [70] opened from [::1]:49592
+Dec 31 17:33 : client: [70] closed
+Dec 31 17:33 : client: [71] opened from [::1]:49594
+Dec 31 17:33 : client: [71] closed
+Dec 31 17:33 : client: [72] opened from [::1]:49596
+Dec 31 17:33 : client: [72] closed
+Dec 31 17:39 : player: played "Mac Miller - Self Care.mp3"
+Dec 31 17:39 : client: [73] opened from [::1]:49606
+Dec 31 17:39 : client: [73] closed
+Dec 31 17:39 : client: [74] opened from [::1]:49608
+Dec 31 17:39 : client: [74] closed
+Dec 31 17:39 : client: [75] opened from [::1]:49612
+Dec 31 17:39 : client: [75] closed
+Dec 31 17:39 : client: [76] opened from [::1]:49614
+Dec 31 17:39 : client: [76] closed
+Dec 31 17:39 : client: [77] opened from [::1]:49616
+Dec 31 17:39 : client: [77] closed
+Dec 31 17:39 : client: [78] opened from [::1]:49618
+Dec 31 17:39 : client: [78] closed
+Dec 31 17:39 : client: [79] opened from [::1]:49620
+Dec 31 17:39 : client: [79] closed
+Dec 31 17:39 : client: [80] opened from [::1]:49622
+Dec 31 17:39 : client: [80] closed
+Dec 31 17:39 : client: [81] opened from [::1]:49624
+Dec 31 17:39 : client: [81] closed
+Dec 31 17:39 : client: [82] opened from [::1]:49626
+Dec 31 17:39 : client: [82] closed
+Dec 31 17:42 : client: [83] opened from 127.0.0.1:51202
+Dec 31 17:47 : player: played "somebody_1982.mp4.mp3"
+Dec 31 17:48 : client: [84] opened from [::1]:49710
+Dec 31 17:48 : client: [84] closed
+Dec 31 17:48 : client: [85] opened from [::1]:49712
+Dec 31 17:48 : client: [85] closed
+Dec 31 17:48 : client: [86] opened from [::1]:49714
+Dec 31 17:48 : client: [86] closed
+Dec 31 17:48 : client: [87] opened from [::1]:49716
+Dec 31 17:48 : client: [87] closed
+Dec 31 17:48 : client: [88] opened from [::1]:49718
+Dec 31 17:48 : client: [88] closed
+Dec 31 17:48 : client: [89] opened from [::1]:49720
+Dec 31 17:48 : client: [89] closed
+Dec 31 17:48 : client: [90] opened from [::1]:49722
+Dec 31 17:48 : client: [90] closed
+Dec 31 17:48 : client: [91] opened from [::1]:49724
+Dec 31 17:48 : client: [91] closed
+Dec 31 17:48 : client: [92] opened from [::1]:49726
+Dec 31 17:48 : client: [92] closed
+Dec 31 17:48 : client: [93] opened from [::1]:49730
+Dec 31 17:48 : client: [93] closed
+Dec 31 17:48 : client: [94] opened from [::1]:49732
+Dec 31 17:48 : client: [94] closed
+Dec 31 17:48 : client: [95] opened from [::1]:49734
+Dec 31 17:48 : client: [95] closed
+Dec 31 17:51 : player: played "Five Finger Death Punch - Dot Your Eyes (Official Audio).mp3"
+Dec 31 17:58 : player: played "La vie est belle.mp3"
+Dec 31 18:00 : client: [83] closed
+Dec 31 18:00 : client: [67] closed
+Dec 31 18:00 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 31 18:00 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Jan 01 10:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 10:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 10:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 10:45 : client: [0] opened from 127.0.0.1:54398
+Jan 01 10:45 : client: [0] closed
+Jan 01 10:45 : client: [1] opened from 127.0.0.1:54400
+Jan 01 10:45 : client: [1] closed
+Jan 01 10:45 : client: [2] opened from 127.0.0.1:54404
+Jan 01 10:46 : client: [2] closed
+Jan 01 10:46 : client: [3] opened from 127.0.0.1:54442
+Jan 01 10:47 : player: played "TheNeighbourhood_DaddyIssues.mp3"
+Jan 01 10:51 : player: played "Redbone - Come and Get Your Love (Official Audio).mp3"
+Jan 01 10:51 : client: [4] opened from [::1]:57596
+Jan 01 10:51 : client: [4] closed
+Jan 01 10:59 : client: [5] opened from [::1]:60802
+Jan 01 10:59 : client: [5] closed
+Jan 01 11:01 : player: played "пасош - лето.mp3"
+Jan 01 11:05 : player: played "Metronomy - The Look (Music Video).mp3"
+Jan 01 11:07 : client: [3] closed
+Jan 01 11:07 : client: [6] opened from 127.0.0.1:58066
+Jan 01 11:08 : client: [6] closed
+Jan 01 11:08 : client: [7] opened from 127.0.0.1:58070
+Jan 01 11:08 : client: [7] closed
+Jan 01 11:08 : client: [8] opened from 127.0.0.1:58072
+Jan 01 11:10 : player: played "College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3"
+Jan 01 11:14 : client: [8] closed
+Jan 01 11:14 : client: [9] opened from 127.0.0.1:58408
+Jan 01 11:15 : client: [9] closed
+Jan 01 11:15 : client: [10] opened from 127.0.0.1:58422
+Jan 01 11:16 : player: played "Mac Miller - Self Care.mp3"
+Jan 01 11:16 : client: [10] closed
+Jan 01 11:16 : client: [11] opened from 127.0.0.1:58444
+Jan 01 11:20 : player: played "Journey - Don't Stop Believin' (Audio).mp3"
+Jan 01 11:24 : player: played "somebody_1982.mp4.mp3"
+Jan 01 11:27 : player: played "Nujabes - Feather-M.mp3"
+Jan 01 11:30 : player: played "Черниковская Хата - Нажми на кнопку.mp3"
+Jan 01 11:32 : client: [12] opened from [::1]:33632
+Jan 01 11:32 : client: [12] closed
+Jan 01 12:17 : client: [13] opened from [::1]:34182
+Jan 01 12:17 : client: [13] closed
+Jan 01 12:17 : client: [14] opened from [::1]:34198
+Jan 01 12:17 : client: [14] closed
+Jan 01 17:01 : client: [15] opened from [::1]:36126
+Jan 01 17:01 : client: [15] closed
+Jan 01 17:04 : client: [16] opened from [::1]:36170
+Jan 01 17:04 : client: [16] closed
+Jan 01 18:10 : client: [17] opened from [::1]:37360
+Jan 01 18:10 : client: [17] closed
+Jan 01 18:10 : client: [18] opened from [::1]:37362
+Jan 01 18:10 : client: [18] closed
+Jan 01 18:10 : client: [19] opened from [::1]:37364
+Jan 01 18:10 : client: [19] closed
+Jan 01 18:10 : client: [20] opened from [::1]:37366
+Jan 01 18:10 : client: [20] closed
+Jan 01 18:10 : client: [21] opened from [::1]:37368
+Jan 01 18:10 : client: [21] closed
+Jan 01 18:10 : client: [22] opened from [::1]:37370
+Jan 01 18:10 : client: [22] closed
+Jan 01 18:10 : client: [23] opened from [::1]:37388
+Jan 01 18:10 : client: [23] closed
+Jan 01 18:10 : client: [24] opened from [::1]:37390
+Jan 01 18:10 : client: [24] closed
+Jan 01 18:10 : client: [25] opened from [::1]:37392
+Jan 01 18:10 : client: [25] closed
+Jan 01 18:12 : client: [26] opened from [::1]:37402
+Jan 01 18:12 : client: [26] closed
+Jan 01 18:14 : player: played "Nujabes - Feather-M.mp3"
+Jan 01 18:15 : client: [27] opened from [::1]:37426
+Jan 01 18:15 : client: [27] closed
+Jan 01 18:15 : client: [28] opened from [::1]:37428
+Jan 01 18:15 : client: [28] closed
+Jan 01 18:15 : client: [29] opened from [::1]:37430
+Jan 01 18:15 : client: [29] closed
+Jan 01 18:18 : player: played "Olivia Ruiz - Elle Panique.mp3"
+Jan 01 18:23 : player: played "Grateful Dead - Good Lovin' (Studio Version).mp3"
+Jan 01 18:23 : client: [30] opened from [::1]:37488
+Jan 01 18:23 : client: [30] closed
+Jan 01 18:27 : client: [11] closed
+Jan 01 18:27 : client: [31] opened from 127.0.0.1:34666
+Jan 01 18:28 : client: [31] closed
+Jan 01 18:28 : client: [32] opened from 127.0.0.1:34668
+Jan 01 19:13 : client: [33] opened from [::1]:37628
+Jan 01 19:13 : client: [33] closed
+Jan 01 19:17 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Jan 01 19:21 : player: played "RATATAT - ABRASIVE.mp3"
+Jan 01 19:21 : client: [34] opened from [::1]:37852
+Jan 01 19:21 : client: [34] closed
+Jan 01 19:25 : player: played "Vanessa Paradis-Le Tourbillon De La Vie.mp3"
+Jan 01 19:28 : player: played "Patrick Hernandez - Born to Be Alive - Official Video (Clip Officiel).mp3"
+Jan 01 19:32 : player: played "Five Finger Death Punch - Burn MF (Official Audio).mp3"
+Jan 01 19:36 : player: played "Sälen - The Drwg.mp3"
+Jan 01 19:39 : player: played "SALES - chinese new year.mp3"
+Jan 01 19:41 : client: [35] opened from [::1]:38060
+Jan 01 19:41 : client: [35] closed
+Jan 02 08:54 : client: [36] opened from [::1]:38062
+Jan 02 08:54 : client: [36] closed
+Jan 02 08:55 : player: played "Five Finger Death Punch - Dot Your Eyes (Official Audio).mp3"
+Jan 02 08:56 : client: [37] opened from [::1]:38400
+Jan 02 08:56 : client: [37] closed
+Jan 02 09:37 : client: [32] closed
+Jan 02 09:37 : client: [38] opened from 127.0.0.1:36288
+Jan 02 09:39 : client: [38] closed
+Jan 02 09:39 : client: [39] opened from 127.0.0.1:36346
+Jan 02 09:39 : client: [39] closed
+Jan 02 09:39 : player: played "Mariya Takeuchi Plastic Love  竹内 まりや.mp3"
+Jan 02 09:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 09:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 09:40 : client: [0] opened from 127.0.0.1:51132
+Jan 02 09:40 : client: [0] closed
+Jan 02 09:40 : client: [1] opened from 127.0.0.1:51140
+Jan 02 09:44 : client: [1] closed
+Jan 02 09:44 : client: [2] opened from 127.0.0.1:51302
+Jan 02 09:45 : client: [2] closed
+Jan 02 09:45 : player: played "Mariya Takeuchi Plastic Love  竹内 まりや.mp3"
+Jan 02 09:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 09:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 09:45 : client: [0] opened from 127.0.0.1:39922
+Jan 02 09:45 : client: [0] closed
+Jan 02 09:45 : client: [1] opened from 127.0.0.1:39928
+Jan 02 09:45 : client: [2] opened from [::1]:43610
+Jan 02 09:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 09:45 : client: [2] closed
+Jan 02 09:52 : player: played "Mariya Takeuchi Plastic Love  竹内 まりや.mp3"
+Jan 02 09:55 : player: played "Eurythmics - Sweet Dreams (Are Made Of This) (Official Video).mp3"
+Jan 02 09:55 : client: [3] opened from [::1]:43804
+Jan 02 09:55 : client: [3] closed
+Jan 02 10:35 : client: [4] opened from [::1]:45160
+Jan 02 10:35 : client: [4] closed
+Jan 02 10:38 : player: played "All We Ever Wanted Was Everything.mp3"
+Jan 02 10:43 : player: played "SWEATER WEATHER _ SLOWED.mp3"
+Jan 02 10:43 : client: [5] opened from [::1]:45308
+Jan 02 10:43 : client: [5] closed
+Jan 02 10:45 : player: played "xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3"
+Jan 02 10:45 : client: [6] opened from [::1]:45690
+Jan 02 10:45 : client: [6] closed
+Jan 02 10:45 : client: [7] opened from [::1]:45692
+Jan 02 10:45 : client: [7] closed
+Jan 02 10:48 : player: played "Olivia Ruiz - Elle Panique.mp3"
+Jan 02 10:51 : player: played "Redbone - Come and Get Your Love (Official Audio).mp3"
+Jan 02 10:54 : client: [1] closed
+Jan 02 10:54 : client: [8] opened from 127.0.0.1:42236
+Jan 02 10:54 : client: [8] closed
+Jan 02 10:54 : player: played "Journey - Don't Stop Believin' (Audio).mp3"
+Jan 02 10:54 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 02 10:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 10:55 : client: [0] opened from 127.0.0.1:55434
+Jan 02 10:55 : client: [0] closed
+Jan 02 10:55 : client: [1] opened from 127.0.0.1:55438
+Jan 02 10:56 : player: played "Journey - Don't Stop Believin' (Audio).mp3"
+Jan 02 10:56 : client: [1] closed
+Jan 02 10:56 : client: [2] opened from 127.0.0.1:55458
+Jan 02 11:00 : player: played "College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3"
+Jan 02 11:01 : client: [3] opened from [::1]:36264
+Jan 02 11:01 : client: [3] closed
+Jan 02 11:01 : client: [4] opened from [::1]:36266
+Jan 02 11:01 : client: [4] closed
+Jan 02 11:01 : client: [5] opened from [::1]:36268
+Jan 02 11:01 : client: [5] closed
+Jan 02 11:01 : client: [6] opened from [::1]:36270
+Jan 02 11:01 : client: [6] closed
+Jan 02 11:01 : client: [7] opened from [::1]:36272
+Jan 02 11:01 : client: [7] closed
+Jan 02 11:01 : client: [8] opened from [::1]:36274
+Jan 02 11:01 : client: [8] closed
+Jan 02 11:01 : client: [9] opened from [::1]:36276
+Jan 02 11:01 : client: [9] closed
+Jan 02 11:01 : client: [10] opened from [::1]:36278
+Jan 02 11:01 : client: [10] closed
+Jan 02 11:01 : client: [11] opened from [::1]:36280
+Jan 02 11:01 : client: [11] closed
+Jan 02 11:01 : client: [12] opened from [::1]:36282
+Jan 02 11:01 : client: [12] closed
+Jan 02 11:01 : client: [13] opened from [::1]:36284
+Jan 02 11:01 : client: [13] closed
+Jan 02 11:01 : client: [14] opened from [::1]:36286
+Jan 02 11:01 : client: [14] closed
+Jan 02 11:01 : client: [15] opened from [::1]:36288
+Jan 02 11:01 : client: [15] closed
+Jan 02 11:01 : client: [16] opened from [::1]:36290
+Jan 02 11:01 : client: [16] closed
+Jan 02 11:01 : client: [17] opened from [::1]:36292
+Jan 02 11:01 : client: [17] closed
+Jan 02 11:01 : client: [18] opened from [::1]:36294
+Jan 02 11:01 : client: [18] closed
+Jan 02 11:01 : client: [19] opened from [::1]:36296
+Jan 02 11:01 : client: [19] closed
+Jan 02 11:01 : client: [20] opened from [::1]:36298
+Jan 02 11:01 : client: [20] closed
+Jan 02 11:01 : client: [21] opened from [::1]:36300
+Jan 02 11:01 : client: [21] closed
+Jan 02 11:01 : client: [22] opened from [::1]:36302
+Jan 02 11:01 : client: [22] closed
+Jan 02 11:01 : client: [23] opened from [::1]:36304
+Jan 02 11:01 : client: [23] closed
+Jan 02 11:01 : client: [24] opened from [::1]:36306
+Jan 02 11:01 : client: [24] closed
+Jan 02 11:01 : client: [25] opened from [::1]:36308
+Jan 02 11:01 : client: [25] closed
+Jan 02 11:01 : client: [26] opened from [::1]:36310
+Jan 02 11:01 : client: [26] closed
+Jan 02 11:01 : client: [27] opened from [::1]:36312
+Jan 02 11:01 : client: [27] closed
+Jan 02 11:01 : client: [28] opened from [::1]:36314
+Jan 02 11:01 : client: [28] closed
+Jan 02 11:04 : client: [29] opened from [::1]:36414
+Jan 02 11:04 : client: [29] closed
+Jan 02 11:06 : client: [30] opened from [::1]:36498
+Jan 02 11:06 : client: [30] closed
+Jan 02 11:07 : client: [31] opened from [::1]:36504
+Jan 02 11:07 : client: [31] closed
+Jan 02 11:21 : client: [2] closed
+Jan 02 11:21 : player: played "Metronomy - The Look (Music Video).mp3"
+Jan 02 12:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 12:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 12:21 : client: [0] opened from 127.0.0.1:59868
+Jan 02 12:22 : client: [0] closed
+Jan 02 12:22 : client: [1] opened from 127.0.0.1:59870
+Jan 02 12:22 : client: [2] opened from [::1]:39636
+Jan 02 12:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 12:22 : client: [2] closed
+Jan 02 12:22 : client: [3] opened from [::1]:39638
+Jan 02 12:22 : client: [3] closed
+Jan 02 12:25 : client: [4] opened from [::1]:39862
+Jan 02 12:25 : client: [4] closed
+Jan 02 12:39 : client: [5] opened from [::1]:40646
+Jan 02 12:39 : client: [5] closed
+Jan 02 12:39 : client: [6] opened from [::1]:40652
+Jan 02 12:39 : client: [6] closed
+Jan 02 12:39 : client: [7] opened from [::1]:40654
+Jan 02 12:39 : client: [7] closed
+Jan 02 12:39 : client: [8] opened from [::1]:40664
+Jan 02 12:39 : client: [8] closed
+Jan 02 13:49 : client: [1] closed
+Jan 02 13:49 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Jan 02 13:49 : player: played "Metronomy - The Look (Music Video).mp3"
+Jan 02 15:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:25 : client: [0] opened from 127.0.0.1:50318
+Jan 02 15:25 : client: [0] closed
+Jan 02 15:25 : client: [1] opened from 127.0.0.1:50322
+Jan 02 15:25 : client: [2] opened from [::1]:59074
+Jan 02 15:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:25 : client: [2] closed
+Jan 02 15:25 : client: [3] opened from [::1]:59076
+Jan 02 15:25 : client: [3] closed
+Jan 02 15:26 : client: [4] opened from 127.0.0.1:50330
+Jan 02 15:34 : player: played "somebody_1982.mp4.mp3"
+                                                                 Jan 02 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:41 : client: [0] opened from 127.0.0.1:51394
+Jan 02 15:41 : client: [0] closed
+Jan 02 15:41 : client: [1] opened from 127.0.0.1:51396
+Jan 02 15:41 : client: [2] opened from [::1]:50464
+Jan 02 15:41 : client: [2] closed
+Jan 02 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:41 : client: [3] opened from [::1]:50466
+Jan 02 15:41 : client: [3] closed
+Jan 02 15:41 : client: [4] opened from [::1]:50468
+Jan 02 15:41 : client: [4] closed
+Jan 02 15:41 : client: [5] opened from [::1]:50470
+Jan 02 15:41 : client: [5] closed
+Jan 02 15:41 : client: [6] opened from [::1]:50472
+Jan 02 15:41 : client: [6] closed
+Jan 02 15:41 : client: [7] opened from [::1]:50474
+Jan 02 15:41 : client: [7] closed
+Jan 02 15:42 : client: [1] closed
+Jan 02 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:42 : client: [0] opened from 127.0.0.1:48058
+Jan 02 15:43 : client: [0] closed
+Jan 02 15:43 : client: [1] opened from 127.0.0.1:48060
+Jan 02 15:43 : client: [2] opened from [::1]:53780
+Jan 02 15:43 : client: [2] closed
+Jan 02 15:43 : client: [3] opened from [::1]:53782
+Jan 02 15:43 : client: [3] closed
+Jan 02 15:43 : client: [4] opened from [::1]:53784
+Jan 02 15:43 : client: [4] closed
+Jan 02 15:43 : client: [5] opened from [::1]:53786
+Jan 02 15:43 : client: [5] closed
+Jan 02 15:44 : client: [6] opened from [::1]:53794
+Jan 02 15:44 : client: [6] closed
+Jan 02 15:44 : client: [7] opened from 127.0.0.1:48086
+Jan 02 15:44 : client: [8] opened from [::1]:53808
+Jan 02 15:44 : client: [8] closed
+Jan 02 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 15:47 : client: [7] closed
+Jan 02 15:48 : player: played "Forever Young.mp3"
+Jan 02 15:51 : client: [9] opened from 127.0.0.1:48150
+Jan 02 15:51 : client: [9] closed
+Jan 02 15:52 : client: [10] opened from [::1]:53884
+Jan 02 15:52 : client: [10] closed
+Jan 02 15:52 : client: [11] opened from [::1]:53886
+Jan 02 15:52 : client: [11] closed
+Jan 02 15:55 : client: [12] opened from [::1]:54428
+Jan 02 15:55 : client: [12] closed
+Jan 02 15:57 : client: [13] opened from [::1]:54604
+Jan 02 15:57 : client: [13] closed
+Jan 02 16:33 : client: [14] opened from [::1]:55328
+Jan 02 16:33 : client: [14] closed
+Jan 02 16:33 : client: [15] opened from [::1]:55332
+Jan 02 16:33 : client: [15] closed
+Jan 02 17:17 : client: [16] opened from [::1]:55336
+Jan 02 17:17 : client: [16] closed
+Jan 02 17:19 : player: played "All We Ever Wanted Was Everything.mp3"
+Jan 02 17:19 : client: [17] opened from [::1]:55338
+Jan 02 17:19 : client: [17] closed
+Jan 02 17:20 : client: [18] opened from [::1]:55340
+Jan 02 17:20 : client: [18] closed
+Jan 02 17:20 : client: [19] opened from [::1]:55342
+Jan 02 17:20 : client: [19] closed
+Jan 02 17:20 : client: [20] opened from [::1]:55344
+Jan 02 17:20 : client: [20] closed
+Jan 02 17:20 : client: [21] opened from [::1]:55346
+Jan 02 17:20 : client: [21] closed
+Jan 02 17:20 : client: [22] opened from [::1]:55348
+Jan 02 17:20 : client: [22] closed
+Jan 02 17:25 : player: played "La vie est belle.mp3"
+Jan 02 17:30 : player: played "somebody_1982.mp4.mp3"
+Jan 02 17:35 : client: [23] opened from [::1]:56190
+Jan 02 17:35 : client: [23] closed
+Jan 02 17:35 : client: [24] opened from [::1]:56222
+Jan 02 17:35 : client: [24] closed
+Jan 02 17:35 : client: [25] opened from 127.0.0.1:50528
+Jan 02 17:35 : client: [25] closed
+Jan 02 17:35 : client: [26] opened from 127.0.0.1:50562

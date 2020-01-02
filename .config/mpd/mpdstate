@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
-current: 27
-time: 3.972000
+current: 17
+time: 4.162000
 random: 1
 repeat: 1
 single: 0
@@ -12,38 +12,36 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:[MV] REOL - drop pop candy.mp3
-1:Journey - Don't Stop Believin' (Audio).mp3
-2:La vie est belle.mp3
-3:La rue Ketanou - ma faute à toi.mp3
-4:Mac Miller - Self Care.mp3
-5:Mariya Takeuchi Plastic Love  竹内 まりや.mp3
-6:Men At Work - Down Under (Official Video).mp3
-7:Metronomy - The Look (Music Video).mp3
-8:Olivia Ruiz - Elle Panique.mp3
-9:Où je vais - La Rue Kétanou.mp3
-10:Patrick Hernandez - Born to Be Alive - Official Video (Clip Officiel).mp3
-11:People Are Strange (2017 Remaster).mp3
-12:RATATAT - ABRASIVE.mp3
-13:Redbone - Come and Get Your Love (Official Audio).mp3
-14:Eurythmics - Sweet Dreams (Are Made Of This) (Official Video).mp3
-15:Exit Music for a Film.mp3
-16:Five Finger Death Punch - Burn MF (Official Audio).mp3
-17:Five Finger Death Punch - Dot Your Eyes (Official Audio).mp3
-18:Goblin Slayer OP_Opening - Rightfully _ Mili [Full].mp3
-19:Nujabes - Feather-M.mp3
-20:somebody_1982.mp4.mp3
-21:SWEATER WEATHER _ SLOWED.mp3
-22:пасош - лето.mp3
-23:'MY STICK!' — A Bad Lip Reading of The Last Jedi.mp3
-24:Of Monsters And Men - Little Talks (Official Video).mp3
-25:SALES - chinese new year.mp3
+0:Abba - Gimme! Gimme! Gimme! (A Man After Midnight)-XEjLoHdbVeE.mp3
+1:Katyusha - Red Army Choir _ Russian Songs with English Subtitles.mp3
+2:Forever Young.mp3
+3:'MY STICK!' — A Bad Lip Reading of The Last Jedi.mp3
+4:All We Ever Wanted Was Everything.mp3
+5:Culture Club - Karma Chameleon (Official Video).mp3
+6:Daso - Meine.mp3
+7:Daughter - Candles.mp3
+8:Eurythmics - Sweet Dreams (Are Made Of This) (Official Video).mp3
+9:Franz Ferdinand - Take Me Out.mp3
+10:Ｍｅｌａｎｃｈｏｌｙ　Ｈｉｌｌ　(Gorillaz Vaporwave Mix) - The Alien.mp3
+11:La vie est belle.mp3
+12:somebody_1982.mp4.mp3
+13:La rue Ketanou - ma faute à toi.mp3
+14:Où je vais - La Rue Kétanou.mp3
+15:ｚａｗｓｚｅ　ｔａｍ　ｇｄｚｉｅ　ｔｙ　依サ怨姻 - polish doomer anthem.mp3
+16:ｚａｗｓｚｅ　ｔａｍ　ｇｄｚｉｅ　ｔｙ　依サ怨姻 - polish doomer anthem.mp3
+17:Mac Miller - Self Care.mp3
+18:Meet the Frownies.mp3
+19:Noir Désir - Le Vent Nous Portera.mp3
+20:Noir Désir - Le Vent Nous Portera.mp3
+21:New Order - Blue Monday.mp3
+22:Of Monsters And Men - Little Talks (Official Video).mp3
+23:Olivia Ruiz - Elle Panique.mp3
+24:Where Is My Mind.mp3
+25:Redbone - Come and Get Your Love (Official Audio).mp3
 26:Sälen - The Drwg.mp3
-27:TheNeighbourhood_DaddyIssues.mp3
-28:xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3
-29:All We Ever Wanted Was Everything.mp3
-30:Черниковская Хата - Нажми на кнопку.mp3
-31:Grateful Dead - Good Lovin' (Studio Version).mp3
-32:College & Electric Youth - A Real Hero (Drive Original Movie Soundtrack).mp3
-33:Vanessa Paradis-Le Tourbillon De La Vie.mp3
+27:SALES - chinese new year.mp3
+28:TheNeighbourhood_DaddyIssues.mp3
+29:SWEATER WEATHER _ SLOWED.mp3
+30:Vanessa Paradis-Le Tourbillon De La Vie.mp3
+31:I Hate That You're Happy.mp3
 playlist_end
