@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 90
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 17
-time: 4.162000
+state: pause
+current: 78
+time: 152.933000
 random: 1
 repeat: 1
 single: 0
@@ -44,4 +44,57 @@ playlist_begin
 29:SWEATER WEATHER _ SLOWED.mp3
 30:Vanessa Paradis-Le Tourbillon De La Vie.mp3
 31:I Hate That You're Happy.mp3
+32:A Real Hero (College feat. Electric Youth Cover).mp3
+33:Hey Moon.mp3
+34:Nujabes - Feather-M.mp3
+35:The Hoosiers - Goodbye Mr A (Official Video).mp3
+36:The Human Beinz - Nobody But Me - Lyrics.mp3
+37:The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3
+38:Lil Peep - Toxic City ft. Drip.mp3
+39:Two Door Cinema Club - What You Know.mp3
+40:Gotye - Somebody That I Used To Know (feat. Kimbra) - official music video.mp3
+41:пасош - лето.mp3
+42:Noir Désir - Le Vent Nous Portera.mp3
+43:Pigalle - Dans la salle du bar-tabac de la rue des Martyrs - Chanson française.mp3
+44:raphael - dans 150 ans.mp3
+45:Raphaël - schengen.mp3
+46:RATATAT - ABRASIVE.mp3
+47:Ratatat - Rome.mp3
+48:SALES - chinese new year.mp3
+49:somebody that i used to know - Ｄｏｏｍｅｒ Ｗａｖｅ.mp3
+50:There Is a Light That Never Goes Out (2017 Master).mp3
+51:We Used to Wait.mp3
+52:ｚａｗｓｚｅ　ｔａｍ　ｇｄｚｉｅ　ｔｙ　依サ怨姻 - polish doomer anthem.mp3
+53:All We Ever Wanted Was Everything.mp3
+54:Ｄｏｏｍｅｒ Ｗａｖｅ - Luna - Planes.mp3
+55:Lord Huron - The Night We Met.mp3
+56:MGMT - When You Die (Official Video).mp3
+57:Meet the Frownies.mp3
+58:Shuggie.mp3
+59:Stand By Me, Ben E King, 1961.mp3
+60:SWEATER WEATHER _ SLOWED.mp3
+61:xxxtentacion - jocelyn flores (slowed + reverb + bass boosted).mp3
+62:Where Is My Mind.mp3
+63:ｎｉｇｈｔｃａｌｌ.mp3
+64:Vaporwave - Kids.mp3
+65:Kansas - Dust in the Wind (Doomer).mp3
+66:Home resonance but you're in a bathroom at a party.mp3
+67:Ｍｅｌａｎｃｈｏｌｙ　Ｈｉｌｌ　(Gorillaz Vaporwave Mix) - The Alien.mp3
+68:coldplay - the scientist (slowed).mp3
+69:Indochine - J'ai demandé à la lune (Clip officiel).mp3
+70:Daso - Meine.mp3
+71:Alain Souchon --- Foule Sentimentale.mp3
+72:O. V. Wright - Motherless Child.mp3
+73:Renaud, Mistral Gagnant.mp3
+74:Georges Brassens - Chanson pour l'auvergnat.mp3
+75:Daughter - Candles.mp3
+76:Vanessa Paradis-Le Tourbillon De La Vie.mp3
+77:Mac Miller - Self Care.mp3
+78:TheNeighbourhood_DaddyIssues.mp3
+79:DOOMER THEME SONG - ｔａｋｅ　ｍｅ　ｏｕｔ(Full, uncut version).mp3
+80:Godfather Don 'Status' [1996].mp3
+81:KC & The Sunshine Band - Give It Up [HQ].mp3
+82:Metronomy - The Look (Music Video).mp3
+83:Wilco - How To Fight Loneliness.mp3
+84:спальные районы krec by nadin majestik.mp3
 playlist_end

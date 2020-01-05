@@ -219,11 +219,9 @@ assign [class="firefoxdeveloperedition"] 2
 assign [class="discord"] 9
 assign [class="Music"] 10
 assign [class="code"] 4
-assign [class="fff"] 1 
 bindsym $mod+Shift+m exec st -c "Music" -e ncmpcpp
 bindsym $mod+Shift+v exec code
 bindsym $mod+Shift+d exec discord
-bindsym $mod+Shift+b exec st -c "fff" -e fff
 gaps inner 13
 gaps outer 9
 exec "wal -R"
