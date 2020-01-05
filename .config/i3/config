@@ -213,17 +213,20 @@ client.placeholder      $fg     $bg     $fg  $fg-alt        $fg-alt
 
 client.background       $bg
 
-
+#workspaces settings
 for_window [class="^.*"] border pixel 3 
 assign [class="firefoxdeveloperedition"] 2
 assign [class="discord"] 9
 assign [class="Music"] 10
 assign [class="code"] 4
+#bindkeys
 bindsym $mod+Shift+m exec st -c "Music" -e ncmpcpp
 bindsym $mod+Shift+v exec code
 bindsym $mod+Shift+d exec discord
+#other
 gaps inner 13
 gaps outer 9
+#exec on startup
 exec "wal -R"
 exec "timew start 'computer'"
 exec_always --no-startup-id ~/.config/polybar/launch.sh
