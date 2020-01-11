@@ -7,7 +7,7 @@ fi
 source ~/.zsh-autopair/autopair.zsh
 
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:$PATH:/home/adri/Devel/flutter/bin:/opt/dart-sdk/bin/dart:/home/adri/.local/bin
+export PATH=$HOME/bin:/usr/local/bin:$PATH:/home/adri/Devel/flutter/bin:/opt/dart-sdk/bin/dart:/home/adri/.local/bin:$HOME/Scripts
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/adri/.oh-my-zsh"
@@ -142,6 +142,9 @@ alias syu='sudo pacman -Syu'
 # nnn file config
 
 NNN_CONTEXT_COLORS='1234'
+
+HISTCONTROL=ignoredups
+
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

@@ -223,6 +223,7 @@ assign [class="code"] 4
 bindsym $mod+Shift+m exec st -c "Music" -e ncmpcpp
 bindsym $mod+Shift+v exec code
 bindsym $mod+Shift+d exec discord
+bindsym $mod+Shift+s exec maim -s | xclip -selection clipboard -t image/png
 #other
 gaps inner 13
 gaps outer 9

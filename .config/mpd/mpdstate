@@ -1,9 +1,9 @@
-sw_volume: 90
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 78
-time: 152.933000
+state: play
+current: 64
+time: 4.057000
 random: 1
 repeat: 1
 single: 0
@@ -97,4 +97,16 @@ playlist_begin
 82:Metronomy - The Look (Music Video).mp3
 83:Wilco - How To Fight Loneliness.mp3
 84:спальные районы krec by nadin majestik.mp3
+85:Tears For Fears - Everybody Wants To Rule The World.mp3
+86:Clams Casino - Cupidwing (Moon Trip Radio Official).mp3
+87:Clams Casino - Fire Blue (Moon Trip Radio Official).mp3
+88:Clams Casino - Glowing Bones (Moon Trip Radio Official).mp3
+89:Clams Casino - Healing (Moon Trip Radio Official).mp3
+90:Clams Casino - In a Mirror (Moon Trip Radio Official).mp3
+91:Clams Casino - Lyre (Moon Trip Radio Official).mp3
+92:Clams Casino - Moon Trip Radio (Moon Trip Radio Official).mp3
+93:Clams Casino - NSX (Moon Trip Radio Official).mp3
+94:Clams Casino - Rune (Moon Trip Radio Official).mp3
+95:Clams Casino - Soliloquy (Moon Trip Radio Official).mp3
+96:Clams Casino - Twilit (Moon Trip Radio Official).mp3
 playlist_end
